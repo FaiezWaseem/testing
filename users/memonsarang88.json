@@ -1,0 +1,617 @@
+{
+    "summary": "Full-Stack Engineer with 7+ years of professional software development experience using Java, Kotlin with Spring Boot & TypeScript with React. Currently, I\u2019m leading an agile development team responsible for developing highly scalable mobile & web applications built on Microservices architecture.\n\nMy tech stack comprises: Java | Kotlin | TypeScript | JavaScript | Microservices | Spring Boot | React | Redux | MySQL | MongoDB | Apache Kafka | AWS | Helm | Docker | Kubernetes\n\nI\u2019ve worked across various industries including local startups and international companies. As a problem solver, I like to approach the problem using diverse perspectives, focusing on the hidden learning opportunities & hoping to adopt something new along the way.",
+    "industryName": "Information Technology & Services",
+    "lastName": "Memon",
+    "locationName": "Germany",
+    "student": false,
+    "geoCountryName": "Germany",
+    "geoCountryUrn": "urn:li:fs_geo:101282230",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Sarang",
+    "entityUrn": "urn:li:fs_profile:ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101282230"
+    },
+    "location": {
+        "basicLocation": {
+            "countryCode": "de"
+        }
+    },
+    "headline": "Driven Full-Stack Engineer & Philosophy fanatic | x Bazaar | x VentureDive",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF5ibyzZvxOpA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1655234622192?e=1740009600&v=beta&t=pUgZnH8xTNyQ_KmghV7Lrhted1N_QVly6maYF7M3uYM",
+    "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1655234622192?e=1740009600&v=beta&t=2_LJFf_rNRpdzAoDSA9UXjsIpGaLO4dgPPW_a-UXMv8",
+    "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1655234622192?e=1740009600&v=beta&t=eU1BKvN3j_mekdRIlAEvc07hGNIpVjmkk9UTlEb1e2o",
+    "img_480_480": "800_800/profile-displayphoto-shrink_800_800/0/1655234622192?e=1740009600&v=beta&t=XJ_wRyjtsO1yghTaNtFAiorctlRow1gfClPTTCMY1Ls",
+    "profile_id": "ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw",
+    "member_urn": "urn:li:member:509736598",
+    "public_id": "memonsarang88",
+    "experience": [
+        {
+            "locationName": "Berlin, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw,2500823389)",
+            "geoLocationName": "Berlin, Germany",
+            "geoUrn": "urn:li:fs_geo:103035651",
+            "companyName": "Personio",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior Software Engineer, L5",
+            "region": "urn:li:fs_region:(de,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10180448",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHqZToSLhjV9Q/company-logo_"
+        },
+        {
+            "locationName": "Berlin, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw,2096139625)",
+            "geoLocationName": "Berlin, Germany",
+            "geoUrn": "urn:li:fs_geo:103035651",
+            "companyName": "Personio",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Software Engineer, L4",
+            "region": "urn:li:fs_region:(de,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10180448",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHqZToSLhjV9Q/company-logo_"
+        },
+        {
+            "locationName": "Kar\u0101chi, Sindh, Pakistan",
+            "entityUrn": "urn:li:fs_position:(ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw,1901215842)",
+            "geoLocationName": "Kar\u0101chi, Sindh, Pakistan",
+            "geoUrn": "urn:li:fs_geo:105451800",
+            "companyName": "Bazaar Technologies ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "description": "Journey @ Bazaar started after we, folks from VentureDive, were acquired in May 2021. The journey since then has been nothing short of phenomenal, especially in terms of the learning & the experience we've gained building things for an immensely dynamic startup.\n\nFollowing are some of the accomplishments that we made during this time:\n-> Evolved Single-factor authentication to a more extensible Multi-factor flow which was generic enough to be integrated on all applications, internal or otherwise\n-> Applied Aggregator design pattern to return consolidated data from multiple services where necessary\n-> Decomposed a modulith into separate microservices in an in-house Kata\n-> Used DDD techniques on a domain-heavy service responsible for generating strategic customer visits for Growth Agents\n-> Formulated a test case writing approach (FVR) which dictated randomization of test case data to increase test radius and also make them a bit more exploratory in nature \n-> Worked on several data pipelines to source data for experimental product features\n-> Learned GoLang to work on a proxy service meant to serve data from a different AWS account",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Internet"
+                ]
+            },
+            "title": "Senior Software Engineer II",
+            "region": "urn:li:fs_region:(pk,0)",
+            "companyUrn": "urn:li:fs_miniCompany:65853545",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF6deW22WOv8A/company-logo_"
+        },
+        {
+            "locationName": "Kar\u0101chi, Sindh, Pakistan",
+            "entityUrn": "urn:li:fs_position:(ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw,1775768041)",
+            "geoLocationName": "Kar\u0101chi, Sindh, Pakistan",
+            "geoUrn": "urn:li:fs_geo:105451800",
+            "companyName": "Bazaar Technologies ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "description": "Creatively applying technology to solve retail problems in Pakistan",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Internet"
+                ]
+            },
+            "title": "Senior Software Engineer I",
+            "region": "urn:li:fs_region:(pk,0)",
+            "companyUrn": "urn:li:fs_miniCompany:65853545",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF6deW22WOv8A/company-logo_"
+        },
+        {
+            "locationName": "Kar\u0101chi, Sindh, Pakistan",
+            "entityUrn": "urn:li:fs_position:(ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw,1653515273)",
+            "geoLocationName": "Kar\u0101chi, Sindh, Pakistan",
+            "geoUrn": "urn:li:fs_geo:105451800",
+            "companyName": "VentureDive",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "description": "Complete experience @ VentureDive was working as an outsourced developer with a client named Bazaar to jump-start digitalization of retail in Pakistan. We were so closely integrated with them that we even worked from their office. In the end, some of us were acquired and, we officially joined Bazaar. \n\nFollowing are some of the accomplishments that we made during this time:\n-> Created initial e-commerce modules (catalog, customer & order) by wrapping Shopify APIs with our backend service\n-> Migrated live e-commerce and identity modules from Shopify to our database-backed backend\n-> Extracted out identity module from backend into a separate service backed by a dedicated RDS for better scalability\n-> Created complete backend for EasyKhata, an android app to digitize shop ledgers for retailers\n-> Introduced API gateway as an entry point for all microservices\n-> Worked on ecosystem-level Authentication & Authorization mechanisms\n-> Introduced Apache Kafka to establish communication between order & inventory service for inventory management\n-> Used spotbugs as part of the build process to find bugs & vulnerabilities via static analysis of code",
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Software Engineer",
+            "region": "urn:li:fs_region:(pk,0)",
+            "companyUrn": "urn:li:fs_miniCompany:2619143",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE73Utx3nDTcQ/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw,807525451)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "description": "Forward is a free online learning program designed to help young professionals in the early years of their careers develop practical, must-have skills that are transferable across industries and roles. It's primarily focused on building proficiency in 56 distinct elements of talent (DELTAs) across four categories (Cognitive, Interpersonal, Self-leadership & Digital) to adapt to a future world of work.",
+            "degreeName": "Forward Program",
+            "schoolName": "McKinsey & Company",
+            "fieldOfStudy": "Future of Work Skills"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw,339269585)",
+            "school": {
+                "objectUrn": "urn:li:school:15865",
+                "entityUrn": "urn:li:fs_miniSchool:15865",
+                "active": true,
+                "schoolName": "National University of Computer and Emerging Sciences",
+                "trackingId": "cnbjRgUkScSRIVLSZeBZxw==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQGdFV3S_Aelww/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "degreeName": "Bachelor's degree",
+            "schoolName": "National University of Computer and Emerging Sciences",
+            "fieldOfStudy": "Computer Science",
+            "degreeUrn": "urn:li:fs_degree:200",
+            "schoolUrn": "urn:li:fs_miniSchool:15865"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw,553125667)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "degreeName": "Intermediate",
+            "schoolName": "Superior College of Science"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Sindhi",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "Urdu",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "IBM",
+            "name": "Python for Data Science and AI",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "licenseNumber": "WGQWDN4ESBBR",
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=o-6nTuMsKGt0eMVaKUSS7JuD2uc02YAgDRa1yGz-H0k",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=x8br7Fr8AG0S7X6cvX0bgOJbMxSabuoaUkuSkGBFE_E",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=r6d1cnEiGZIJLRTFqLieQL9eSZaaYGnitjiz5Bg0uAQ",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "fEUDUbUyQES/JLEUARbz7g=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1009",
+            "url": "https://www.coursera.org/account/accomplishments/verify/WGQWDN4ESBBR"
+        },
+        {
+            "authority": "University of Virginia",
+            "name": "Continuous Delivery & DevOps",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "7HFGTF3P373B",
+            "company": {
+                "objectUrn": "urn:li:company:4298",
+                "entityUrn": "urn:li:fs_miniCompany:4298",
+                "name": "University of Virginia",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1712014926451?e=1743033600&v=beta&t=4-K2344ynVBNDoPcp51TPED9-RprtWB3tCOTWpxQbuQ",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1712014926451?e=1743033600&v=beta&t=PFn7LwJMaj1mFNz6SABUhimJltAebNEZldX8u2_HLnA",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1712014926451?e=1743033600&v=beta&t=409juxSgG7g75fOXJUZoKIbxOJ8K5LxSdQrCL7AD_DU",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFPXxfaisprvA/company-logo_"
+                    }
+                },
+                "universalName": "university-of-virginia",
+                "dashCompanyUrn": "urn:li:fsd_company:4298",
+                "trackingId": "Qmiz+WohQ8ieZfF6CEmVlQ=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:4298",
+            "url": "https://www.coursera.org/account/accomplishments/verify/7HFGTF3P373B"
+        },
+        {
+            "authority": "IBM",
+            "name": "Microservices - Fundamentals",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "WEST4FL96CGW",
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=o-6nTuMsKGt0eMVaKUSS7JuD2uc02YAgDRa1yGz-H0k",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=x8br7Fr8AG0S7X6cvX0bgOJbMxSabuoaUkuSkGBFE_E",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=r6d1cnEiGZIJLRTFqLieQL9eSZaaYGnitjiz5Bg0uAQ",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "q0WLEeUpQd2oL5bzhwqoRA=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1009",
+            "url": "https://www.coursera.org/account/accomplishments/verify/WEST4FL96CGW"
+        },
+        {
+            "authority": "IBM",
+            "name": "Developing and Deploying Microservices with Microclimate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "DPM9GAAFUPB4",
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=o-6nTuMsKGt0eMVaKUSS7JuD2uc02YAgDRa1yGz-H0k",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=x8br7Fr8AG0S7X6cvX0bgOJbMxSabuoaUkuSkGBFE_E",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=r6d1cnEiGZIJLRTFqLieQL9eSZaaYGnitjiz5Bg0uAQ",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "HOb5Gm36RTS9LxtuZKhwJA=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1009",
+            "url": "https://www.coursera.org/account/accomplishments/verify/DPM9GAAFUPB4"
+        },
+        {
+            "authority": "IBM",
+            "name": "IBM Cloud: Deploying Microservices with Kubernetes",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "MBQDNRMTCFDY",
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=o-6nTuMsKGt0eMVaKUSS7JuD2uc02YAgDRa1yGz-H0k",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=x8br7Fr8AG0S7X6cvX0bgOJbMxSabuoaUkuSkGBFE_E",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=r6d1cnEiGZIJLRTFqLieQL9eSZaaYGnitjiz5Bg0uAQ",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "Nz5pTCyrTIiQ6JhbiOm5UQ=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1009",
+            "url": "https://www.coursera.org/account/accomplishments/verify/MBQDNRMTCFDY"
+        },
+        {
+            "authority": "IBM",
+            "name": "IBM Cloud Private: Deploying Microservices with Kubernetes",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "SUDQCZRH8SG2",
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=o-6nTuMsKGt0eMVaKUSS7JuD2uc02YAgDRa1yGz-H0k",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=x8br7Fr8AG0S7X6cvX0bgOJbMxSabuoaUkuSkGBFE_E",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=r6d1cnEiGZIJLRTFqLieQL9eSZaaYGnitjiz5Bg0uAQ",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "OFAjExzFTzKIpuGQlZSgFA=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1009",
+            "url": "https://www.coursera.org/account/accomplishments/verify/SUDQCZRH8SG2"
+        },
+        {
+            "authority": "IBM",
+            "name": "IBM Microservices Specialization",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "licenseNumber": "XKS4Y89WW4CD",
+            "company": {
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=o-6nTuMsKGt0eMVaKUSS7JuD2uc02YAgDRa1yGz-H0k",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=x8br7Fr8AG0S7X6cvX0bgOJbMxSabuoaUkuSkGBFE_E",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1743033600&v=beta&t=r6d1cnEiGZIJLRTFqLieQL9eSZaaYGnitjiz5Bg0uAQ",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_"
+                    }
+                },
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "uICHeE0NQyqcdgj/7TQ5jg=="
+            },
+            "displaySource": "coursera.org",
+            "companyUrn": "urn:li:fs_miniCompany:1009",
+            "url": "https://www.coursera.org/verify/specialization/XKS4Y89WW4CD"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [],
+    "skills": [
+        {
+            "name": "Nx"
+        },
+        {
+            "name": "PostgreSQL"
+        },
+        {
+            "name": "Microservices"
+        },
+        {
+            "name": "Full-Stack Development"
+        }
+    ],
+    "urn_id": "ACoAAB5h9pYBDjO8nRFTjvtQU3p8A7El9aCRtIw"
+}

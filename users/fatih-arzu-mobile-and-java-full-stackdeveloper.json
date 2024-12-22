@@ -1,0 +1,498 @@
+{
+    "summary": "Hello to you from the world of software. I have been in the software world for about 3 years. After an intensive training process I'm up against object-oriented programming (OOP),  data structures (collections). My skills include expertise in various areas of software development, including the Software Development Lifecycle (SDLC), JDBC, Hibernate, MongoDB, PostgreSQL, JUnit, Docker, Maven, Postman, RESTFUL API, SQL, Spring MVC, Spring Boot, Agile methodologies and Design Patterns, Intensive work at every stage of the software development process, including creation and strategies.",
+    "industryName": "Computer Software",
+    "lastName": "Arzu",
+    "locationName": "Germany",
+    "student": false,
+    "geoCountryName": "Germany",
+    "geoCountryUrn": "urn:li:fs_geo:101282230",
+    "geoLocationBackfilled": false,
+    "elt": true,
+    "industryUrn": "urn:li:fs_industry:4",
+    "firstName": "Fatih ",
+    "entityUrn": "urn:li:fs_profile:ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:102770095"
+    },
+    "geoLocationName": "G\u00f6ppingen, Baden-W\u00fcrttemberg",
+    "location": {
+        "basicLocation": {
+            "countryCode": "de"
+        }
+    },
+    "headline": "Full-Stack Mobile and Java Developer || Java | Spring | HTML | CSS | Javascript | React Js | API | PostgreSQL | Swift UI | React Native",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQGE5dCyMFJp6w/profile-framedphoto-shrink_",
+    "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1697724711426?e=1735398000&v=beta&t=pPUw5J8w4Q20ybId5NxjIicIF1zYccigmZpYUJpsQPI",
+    "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1697724711426?e=1735398000&v=beta&t=7Cfs9W5A7MgQt23z6ihKprjDxV-3sFThbA-8Ownu7q0",
+    "img_800_800": "800_800/profile-framedphoto-shrink_800_800/0/1697724711426?e=1735398000&v=beta&t=Gtj8WzrNgT8EkIjrOLwJJLdFP4B0vSatNm2axkCgCvI",
+    "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1697724711427?e=1735398000&v=beta&t=x1kQSu-S0dIfLPQXee0nUIZLmRrElkbE6LEzVCPUTJI",
+    "profile_id": "ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw",
+    "member_urn": "urn:li:member:951668417",
+    "public_id": "fatih-arzu-mobile-and-java-full-stackdeveloper",
+    "experience": [],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw,895390316)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "schoolName": "Alfatraining Bildungszentrum",
+            "fieldOfStudy": "Mobile App Developer"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw,895387331)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "description": "A full stack Java developer is a professional who specializes in the development and management of Java-based applications. This includes both the front-end and back-end aspects of Java development. In order to be successful in this role, full stack Java developers need to have a strong understanding of both the front-end and back-end aspects of Java development.",
+            "schoolName": "Weiterbildung",
+            "fieldOfStudy": "Full-Stack Java Developer"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw,895387301)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "description": "The term \"full stack automation engineer\" is a bit of a mouthful, but it essentially refers to a person who is responsible for automating the processes and workflows that keep a business running smoothly. This can include anything from setting up automated email responses to building out entire web applications. Full-stack automation engineers need to have a strong understanding of both back-end and front-end development, as well as a willingness to learn new technologies quickly. In addition, they need to be able to work effectively in a team environment.",
+            "schoolName": "Ausbildung",
+            "fieldOfStudy": "Full-Stack Automation Engineer"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Turkish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "alfatraining Bildungszentrum GmbH",
+            "name": "Mobile App Developer iOS",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:5395621",
+                "entityUrn": "urn:li:fs_miniCompany:5395621",
+                "name": "alfatraining Bildungszentrum GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=jlrrkh5sQL57G5JrywwtlePtLCHKZHx8ma9cffxSNRw",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=v40k_z_LU64Wse3Oy10Vy5Xa-h9f2hD4_z1NqrB-gHw",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=aWOQ9GWpMT5RwEEttFvEeWss2BCEaA0w3p3nwiIZaQM",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFKYNFANTDrgQ/company-logo_"
+                    }
+                },
+                "universalName": "alfatraining-bildungszentrum-gmbh-",
+                "dashCompanyUrn": "urn:li:fsd_company:5395621",
+                "trackingId": "SOFsgMjHRc26WTq42dOGmw=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5395621"
+        },
+        {
+            "authority": "alfatraining Bildungszentrum GmbH",
+            "name": "Mobile App Developer Android ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:5395621",
+                "entityUrn": "urn:li:fs_miniCompany:5395621",
+                "name": "alfatraining Bildungszentrum GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=jlrrkh5sQL57G5JrywwtlePtLCHKZHx8ma9cffxSNRw",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=v40k_z_LU64Wse3Oy10Vy5Xa-h9f2hD4_z1NqrB-gHw",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=aWOQ9GWpMT5RwEEttFvEeWss2BCEaA0w3p3nwiIZaQM",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFKYNFANTDrgQ/company-logo_"
+                    }
+                },
+                "universalName": "alfatraining-bildungszentrum-gmbh-",
+                "dashCompanyUrn": "urn:li:fsd_company:5395621",
+                "trackingId": "XKx+L7n+SfuirpET/oU8jA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5395621"
+        },
+        {
+            "authority": "alfatraining Bildungszentrum GmbH",
+            "name": "Java Developer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:5395621",
+                "entityUrn": "urn:li:fs_miniCompany:5395621",
+                "name": "alfatraining Bildungszentrum GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=jlrrkh5sQL57G5JrywwtlePtLCHKZHx8ma9cffxSNRw",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=v40k_z_LU64Wse3Oy10Vy5Xa-h9f2hD4_z1NqrB-gHw",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=aWOQ9GWpMT5RwEEttFvEeWss2BCEaA0w3p3nwiIZaQM",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFKYNFANTDrgQ/company-logo_"
+                    }
+                },
+                "universalName": "alfatraining-bildungszentrum-gmbh-",
+                "dashCompanyUrn": "urn:li:fsd_company:5395621",
+                "trackingId": "7f+6MwZVQWSFfVXe2Wv3yA=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5395621"
+        },
+        {
+            "authority": "alfatraining Bildungszentrum GmbH",
+            "name": "Software Tester",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:5395621",
+                "entityUrn": "urn:li:fs_miniCompany:5395621",
+                "name": "alfatraining Bildungszentrum GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=jlrrkh5sQL57G5JrywwtlePtLCHKZHx8ma9cffxSNRw",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=v40k_z_LU64Wse3Oy10Vy5Xa-h9f2hD4_z1NqrB-gHw",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630481830146/alfatraining_bildungszentrum_gmbh__logo?e=1743033600&v=beta&t=aWOQ9GWpMT5RwEEttFvEeWss2BCEaA0w3p3nwiIZaQM",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFKYNFANTDrgQ/company-logo_"
+                    }
+                },
+                "universalName": "alfatraining-bildungszentrum-gmbh-",
+                "dashCompanyUrn": "urn:li:fsd_company:5395621",
+                "trackingId": "1v5Mpv5jR+C24BJRYw4/pQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:5395621"
+        },
+        {
+            "authority": "telc GmbH - The European Language Certificates",
+            "name": "German Language Certificate - B2 Level",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1550354",
+                "entityUrn": "urn:li:fs_miniCompany:1550354",
+                "name": "telc GmbH - The European Language Certificates",
+                "showcase": false,
+                "active": false,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631348750088?e=1743033600&v=beta&t=fSqJ3ZdmCe00i-XzuwGi0AxYN6AAvRq1Fc95Qp5Sbpc",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631348750088?e=1743033600&v=beta&t=w0Oq0alQ27W-phSYoh-7rwic-k-kXfNQYOIsIom2Z_o",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631348750088?e=1743033600&v=beta&t=26dVdVKWFuMqgzvvoH0jdT8hwAebmA1fupg5mJPrWBw",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQGujlmNc0B0ZQ/company-logo_"
+                    }
+                },
+                "universalName": "telc-gmbh---the-european-language-certificates",
+                "dashCompanyUrn": "urn:li:fsd_company:1550354",
+                "trackingId": "aits78cLSRWTWolCtp0XcQ=="
+            },
+            "companyUrn": "urn:li:fs_miniCompany:1550354"
+        },
+        {
+            "authority": "TechPro Education",
+            "name": "B105 Certificate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "6717247187FA",
+            "company": {
+                "objectUrn": "urn:li:company:68702321",
+                "entityUrn": "urn:li:fs_miniCompany:68702321",
+                "name": "TechPro Education",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1689602068018/techproeducation_logo?e=1743033600&v=beta&t=ZlUx6nY9hlPPgkpf0X_jYeR5ARuMtce4XqARdrv27LI",
+                                "expiresAt": 1743033600000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1689602068018/techproeducation_logo?e=1743033600&v=beta&t=ietMs61NiX_ztL5AvM3vPRfOXlPItzy5F6KbKV6xSQc",
+                                "expiresAt": 1743033600000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1689602068018/techproeducation_logo?e=1743033600&v=beta&t=X_5csfKZmLoh0uCncxkn9rwRBJRo1fu_yvGb2YROqIo",
+                                "expiresAt": 1743033600000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFsfdso6WkFkg/company-logo_"
+                    }
+                },
+                "universalName": "techproeducation",
+                "dashCompanyUrn": "urn:li:fsd_company:68702321",
+                "trackingId": "bmpdxUrWS5eXMZs52+IqCw=="
+            },
+            "displaySource": "techproeducation.com",
+            "companyUrn": "urn:li:fs_miniCompany:68702321",
+            "url": "https://lms.techproeducation.com/admin/tool/certificate/index.php?code=6717247187FA"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [
+        {
+            "members": [
+                {
+                    "member": {
+                        "firstName": "Fatih ",
+                        "lastName": "Arzu",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw",
+                        "occupation": "Full-Stack Mobile and Java Developer || Java | Spring | HTML | CSS | Javascript | React Js | API | PostgreSQL | Swift UI | React Native",
+                        "objectUrn": "urn:li:member:951668417",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1698440578146?e=1740009600&v=beta&t=Ns5fHS7PJBMLofROUrubKQZZ-GSNeS1hTb3F0v9HcNc",
+                                        "expiresAt": 1740009600000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698440578146?e=1740009600&v=beta&t=T6NaKzkBrXYMmDFmaRFjtsIh9jHrL7mYa3k5u0XS2Ro",
+                                        "expiresAt": 1740009600000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGoBUZ5OApWQQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "fatih-arzu-mobile-and-java-full-stackdeveloper",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1697724711426?e=1735398000&v=beta&t=pPUw5J8w4Q20ybId5NxjIicIF1zYccigmZpYUJpsQPI",
+                                        "expiresAt": 1735398000000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1697724711426?e=1735398000&v=beta&t=7Cfs9W5A7MgQt23z6ihKprjDxV-3sFThbA-8Ownu7q0",
+                                        "expiresAt": 1735398000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1697724711426?e=1735398000&v=beta&t=Gtj8WzrNgT8EkIjrOLwJJLdFP4B0vSatNm2axkCgCvI",
+                                        "expiresAt": 1735398000000,
+                                        "height": 800
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1697724711427?e=1735398000&v=beta&t=x1kQSu-S0dIfLPQXee0nUIZLmRrElkbE6LEzVCPUTJI",
+                                        "expiresAt": 1735398000000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQGE5dCyMFJp6w/profile-framedphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "et6DPHU9SqaZWG/hYVUMTQ=="
+                    },
+                    "entityUrn": "urn:li:fs_contributor:(ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw,1610839296,393642904)",
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw"
+                }
+            ],
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2022
+                }
+            },
+            "description": "https://www.longwyrentalcars.com/services",
+            "title": "Longwy Rental Cars | Cheap, Hygienic, VIP Car Hire"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Spring Boot"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        }
+    ],
+    "urn_id": "ACoAADi5TsEB9osseY8595Nn5wsG3KqiHEouucw"
+}

@@ -1,0 +1,183 @@
+{
+    "summary": "Erfahrener Java-Entwickler mit umfassender Erfahrung in der Entwicklung und Wartung von Softwarekomponenten in agilen Umgebungen. Kompetent in Softwarearchitektur, Linux-Systemadministration und Fehleranalyse.",
+    "industryName": "Information Technology & Services",
+    "lastName": "K\u00f6nig",
+    "locationName": "Germany",
+    "student": false,
+    "geoCountryName": "Germany",
+    "geoCountryUrn": "urn:li:fs_geo:101282230",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "John Henry",
+    "entityUrn": "urn:li:fs_profile:ACoAABTUqxoBoNUa7Cx7Ki60a7Iu1-_tTA2UQI4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009725"
+    },
+    "geoLocationName": "Greater Hamburg Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "de"
+        }
+    },
+    "headline": "Java Software Developer",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH_ZsFlSFEIaA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1724005545659?e=1740009600&v=beta&t=wVmbvNzlgFfXMZzx_t1JgTzC9lw8YnZs7Cz4aT9E6BA",
+    "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1724005545659?e=1740009600&v=beta&t=waQl8UJPeVdqkI2azCxc36NKuW2AyBjg68t0jiV18p4",
+    "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1724005545659?e=1740009600&v=beta&t=DQGOWuzrCOMNqlKklJNvARtaaEQBA1n_o4kAg7Ru2-U",
+    "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1724005545679?e=1740009600&v=beta&t=0huAQdCI50NYi_7lgNudVd1TWcqH-C0l3KA6AmDTKfI",
+    "profile_id": "ACoAABTUqxoBoNUa7Cx7Ki60a7Iu1-_tTA2UQI4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAABTUqxoBoNUa7Cx7Ki60a7Iu1-_tTA2UQI4",
+    "member_urn": "urn:li:member:349481754",
+    "public_id": "john-henry-k\u00f6nig-47605a99",
+    "experience": [
+        {
+            "locationName": "Hamburg, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAABTUqxoBoNUa7Cx7Ki60a7Iu1-_tTA2UQI4,2456997919)",
+            "geoLocationName": "Hamburg, Germany",
+            "geoUrn": "urn:li:fs_geo:101949806",
+            "companyName": "MSP AG",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Java Software Developer",
+            "region": "urn:li:fs_region:(de,0)",
+            "companyUrn": "urn:li:fs_miniCompany:1295163",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEw40Tar3Cy2w/company-logo_"
+        },
+        {
+            "locationName": "Hamburg, Germany",
+            "entityUrn": "urn:li:fs_position:(ACoAABTUqxoBoNUa7Cx7Ki60a7Iu1-_tTA2UQI4,2457203725)",
+            "geoLocationName": "Hamburg, Germany",
+            "geoUrn": "urn:li:fs_geo:101949806",
+            "companyName": "Globetrotter Ausr\u00fcstung",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "description": "Java Entwicklung im Backend Bereich zur Weiterentwicklung der Webseite mit Fokus auf E-Commerce.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ]
+            },
+            "title": "Junior Java Developer",
+            "region": "urn:li:fs_region:(de,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10341517",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF_h5391-3yzg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABTUqxoBoNUa7Cx7Ki60a7Iu1-_tTA2UQI4,1008138331)",
+            "school": {
+                "objectUrn": "urn:li:school:4159088",
+                "entityUrn": "urn:li:fs_miniSchool:4159088",
+                "active": true,
+                "schoolName": "CBM Projektmanagement GmbH",
+                "trackingId": "llqvWB4tTqK/S2SrqioGxQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQG7Fo_T9jU_Vw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "degreeName": "Ausbildung",
+            "schoolName": "CBM Projektmanagement GmbH",
+            "fieldOfStudy": "Fachinformatiger f\u00fcr Anwendungsentwicklung",
+            "schoolUrn": "urn:li:fs_miniSchool:4159088"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABTUqxoBoNUa7Cx7Ki60a7Iu1-_tTA2UQI4,224071298)",
+            "school": {
+                "objectUrn": "urn:li:school:11849",
+                "entityUrn": "urn:li:fs_miniSchool:11849",
+                "active": true,
+                "schoolName": "Hamburg University of Applied Sciences",
+                "trackingId": "vk9xxI6WRTOp4DIrWlNMRw==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQGWbRtT1d7qEw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "schoolName": "Hamburg University of Applied Sciences",
+            "schoolUrn": "urn:li:fs_miniSchool:11849"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAABTUqxoBoNUa7Cx7Ki60a7Iu1-_tTA2UQI4,224071401)",
+            "school": {
+                "objectUrn": "urn:li:school:22008",
+                "entityUrn": "urn:li:fs_miniSchool:22008",
+                "active": true,
+                "schoolName": "Berufliche Schule Farmsen",
+                "trackingId": "PKhwobz5SKOoDrYxHz31Iw==",
+                "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFBTe5XJPbOUA/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "degreeName": "Assistent for computer engineering",
+            "schoolName": "Berufliche Schule Farmsen",
+            "schoolUrn": "urn:li:fs_miniSchool:22008"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": [],
+    "skills": [
+        {
+            "name": "Java"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "C#"
+        },
+        {
+            "name": "PHP"
+        }
+    ],
+    "urn_id": "ACoAABTUqxoBoNUa7Cx7Ki60a7Iu1-_tTA2UQI4"
+}
