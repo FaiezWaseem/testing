@@ -1,0 +1,2652 @@
+[
+    {
+        "summary": "I have a higher technical education and work experience in the engineering\nand energy industry. I know how to communicate with people and find ways\nto solve problems and tasks. Passed professional training courses at the GoIT\ncompany. I strive for professional growth and achieve high-performance\nindicators.",
+        "industryName": "Information Technology & Services",
+        "lastName": "Kulyk",
+        "locationName": "Germany",
+        "student": false,
+        "geoCountryName": "Germany",
+        "geoCountryUrn": "urn:li:fs_geo:101282230",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 4,
+            "day": 16
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Yevhen",
+        "entityUrn": "urn:li:fs_profile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102863977"
+        },
+        "geoLocationName": "Braunfels, Hesse",
+        "location": {
+            "basicLocation": {
+                "countryCode": "de"
+            }
+        },
+        "headline": "Python Developer",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQF7wazHVz2owA/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1708957865128?e=1735880400&v=beta&t=XC81aukxnY1W20wU8huoNbpWq2B9p-GX4u31g-VTpgc",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1708957865128?e=1735880400&v=beta&t=nTFv0Qq73U3YGOh4-IxCjw8otRegw3rPjrnGsXAZJcA",
+        "img_611_611": "800_800/profile-framedphoto-shrink_800_800/0/1708957865128?e=1735880400&v=beta&t=ToPtVH-Q82ScYuzG8-YE_-xU3lXHRq0acn2MaxdzouY",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1708957865128?e=1735880400&v=beta&t=lE2lTBg_vMWGLOT1BFlA2NIE_JNBZDnV5QR6q8Hc62g",
+        "profile_id": "ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+        "member_urn": "urn:li:member:1233588011",
+        "public_id": "yevhen-kulyk-pytdev",
+        "experience": [
+            {
+                "locationName": "Киев, Украина",
+                "entityUrn": "urn:li:fs_position:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,2372681259)",
+                "geoLocationName": "Киев, Украина",
+                "geoUrn": "urn:li:fs_geo:103173899",
+                "companyName": "WeGo - solutions and experience",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Python Developer",
+                "region": "urn:li:fs_region:(ua,0)",
+                "companyUrn": "urn:li:fs_miniCompany:101544555",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQE9rPvdRIzjng/company-logo_"
+            },
+            {
+                "locationName": "Ukraine",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1711645180)",
+                    "urn:li:fs_project:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1711730639)",
+                    "urn:li:fs_project:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1712005541)",
+                    "urn:li:fs_project:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1712126202)",
+                    "urn:li:fs_project:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1712357427)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,2305883784)",
+                "geoLocationName": "Ukraine",
+                "companyName": "GoIT - start your career in IT",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Python Developer",
+                "companyUrn": "urn:li:fs_miniCompany:3844136",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQG3W7YQhG1mjQ/company-logo_"
+            },
+            {
+                "locationName": " Slavutich, Ukraine",
+                "entityUrn": "urn:li:fs_position:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,2306061995)",
+                "geoLocationName": " Slavutich, Ukraine",
+                "companyName": "Separated Subdivision «Atomremontservice»",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "description": "Provision of a complex of works on the examination of nuclear fuel.",
+                "title": "Head of Department"
+            },
+            {
+                "locationName": "Slavutich, Ukraine",
+                "entityUrn": "urn:li:fs_position:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,2306066418)",
+                "geoLocationName": "Slavutich, Ukraine",
+                "companyName": "Separated Subdivision «Atomremontservice»",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2018
+                    }
+                },
+                "title": "Leading Technological Engineer"
+            },
+            {
+                "locationName": "Slavutich, Ukraine",
+                "entityUrn": "urn:li:fs_position:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,2306068222)",
+                "geoLocationName": "Slavutich, Ukraine",
+                "companyName": "Separated Subdivision «Atomremontservice»",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                "title": " Leading Design Engineer"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,943004806)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2023
+                    }
+                },
+                "degreeName": "Python Developer",
+                "schoolName": "GoIT"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1001673281)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2023
+                    }
+                },
+                "schoolName": "Sprachportal GmbH",
+                "fieldOfStudy": "Learning German"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,943004848)",
+                "school": {
+                    "objectUrn": "urn:li:school:17627",
+                    "entityUrn": "urn:li:fs_miniSchool:17627",
+                    "active": true,
+                    "schoolName": "National Technical University of Ukraine 'Kyiv Polytechnic Institute'​",
+                    "trackingId": "wM2vwN5vQkajMVgX47iFaQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQG6AO47AedJeg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2002
+                    }
+                },
+                "degreeName": "Specialist",
+                "schoolName": "National Technical University of Ukraine 'Kyiv Polytechnic Institute'​",
+                "fieldOfStudy": "Technology and equipment welding",
+                "schoolUrn": "urn:li:fs_miniSchool:17627"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Yevhen",
+                            "lastName": "Kulyk",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "occupation": "Python Developer",
+                            "objectUrn": "urn:li:member:1233588011",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1702744474766?e=1740614400&v=beta&t=voQoPLSXfOikqy1zuhxh4KGslZVoRSisYwQILCQ8SSc",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702744474766?e=1740614400&v=beta&t=LhBiOEHRFZLJeiXhK6D719GLSIPDcKEADxALwiWvAs4",
+                                            "expiresAt": 1740614400000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGaAeqmo_7J3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "yevhen-kulyk-pytdev",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1708957865128?e=1735880400&v=beta&t=XC81aukxnY1W20wU8huoNbpWq2B9p-GX4u31g-VTpgc",
+                                            "expiresAt": 1735880400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1708957865128?e=1735880400&v=beta&t=nTFv0Qq73U3YGOh4-IxCjw8otRegw3rPjrnGsXAZJcA",
+                                            "expiresAt": 1735880400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 611,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1708957865128?e=1735880400&v=beta&t=ToPtVH-Q82ScYuzG8-YE_-xU3lXHRq0acn2MaxdzouY",
+                                            "expiresAt": 1735880400000,
+                                            "height": 611
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1708957865128?e=1735880400&v=beta&t=lE2lTBg_vMWGLOT1BFlA2NIE_JNBZDnV5QR6q8Hc62g",
+                                            "expiresAt": 1735880400000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQF7wazHVz2owA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qucWkigfRpqUOPrRJuvxtw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1792666484,437927221)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2024
+                    }
+                },
+                "description": "Resources for modifying the computer game GTAV on the framework QBCore.",
+                "title": "Resources for GTAV game"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,2305883784)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Yevhen",
+                            "lastName": "Kulyk",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "occupation": "Python Developer",
+                            "objectUrn": "urn:li:member:1233588011",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1702744474766?e=1740614400&v=beta&t=voQoPLSXfOikqy1zuhxh4KGslZVoRSisYwQILCQ8SSc",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702744474766?e=1740614400&v=beta&t=LhBiOEHRFZLJeiXhK6D719GLSIPDcKEADxALwiWvAs4",
+                                            "expiresAt": 1740614400000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGaAeqmo_7J3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "yevhen-kulyk-pytdev",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1708957865128?e=1735880400&v=beta&t=XC81aukxnY1W20wU8huoNbpWq2B9p-GX4u31g-VTpgc",
+                                            "expiresAt": 1735880400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1708957865128?e=1735880400&v=beta&t=nTFv0Qq73U3YGOh4-IxCjw8otRegw3rPjrnGsXAZJcA",
+                                            "expiresAt": 1735880400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 611,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1708957865128?e=1735880400&v=beta&t=ToPtVH-Q82ScYuzG8-YE_-xU3lXHRq0acn2MaxdzouY",
+                                            "expiresAt": 1735880400000,
+                                            "height": 611
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1708957865128?e=1735880400&v=beta&t=lE2lTBg_vMWGLOT1BFlA2NIE_JNBZDnV5QR6q8Hc62g",
+                                            "expiresAt": 1735880400000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQF7wazHVz2owA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qucWkigfRpqUOPrRJuvxtw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1711730639,421211113)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI"
+                    }
+                ],
+                "description": "Technologies: Django, PostgreSQL, HTML, CSS.\nAn analog of the existing site. User registration, adding information, pagination, browsing and searching has been implemented.",
+                "title": "Implementation of http://quotes.toscrape.com in Django"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,2305883784)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Yevhen",
+                            "lastName": "Kulyk",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "occupation": "Python Developer",
+                            "objectUrn": "urn:li:member:1233588011",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1702744474766?e=1740614400&v=beta&t=voQoPLSXfOikqy1zuhxh4KGslZVoRSisYwQILCQ8SSc",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702744474766?e=1740614400&v=beta&t=LhBiOEHRFZLJeiXhK6D719GLSIPDcKEADxALwiWvAs4",
+                                            "expiresAt": 1740614400000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGaAeqmo_7J3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "yevhen-kulyk-pytdev",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1708957865128?e=1735880400&v=beta&t=XC81aukxnY1W20wU8huoNbpWq2B9p-GX4u31g-VTpgc",
+                                            "expiresAt": 1735880400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1708957865128?e=1735880400&v=beta&t=nTFv0Qq73U3YGOh4-IxCjw8otRegw3rPjrnGsXAZJcA",
+                                            "expiresAt": 1735880400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 611,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1708957865128?e=1735880400&v=beta&t=ToPtVH-Q82ScYuzG8-YE_-xU3lXHRq0acn2MaxdzouY",
+                                            "expiresAt": 1735880400000,
+                                            "height": 611
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1708957865128?e=1735880400&v=beta&t=lE2lTBg_vMWGLOT1BFlA2NIE_JNBZDnV5QR6q8Hc62g",
+                                            "expiresAt": 1735880400000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQF7wazHVz2owA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qucWkigfRpqUOPrRJuvxtw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1711645180,421204747)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI"
+                    }
+                ],
+                "description": "Technologies: argparse, pathlib, pickle, os, re, datetime, sys, collections.\nIt is the Python module that provides classes and functions for managing an address book, contact records, and performing various operations. It allows users to create, edit and delete contacts, add phone numbers and emails, search for contacts, sort files in a directory and perform operations on notes.",
+                "title": "Personal Helper"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,2305883784)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Yevhen",
+                            "lastName": "Kulyk",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "occupation": "Python Developer",
+                            "objectUrn": "urn:li:member:1233588011",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1702744474766?e=1740614400&v=beta&t=voQoPLSXfOikqy1zuhxh4KGslZVoRSisYwQILCQ8SSc",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702744474766?e=1740614400&v=beta&t=LhBiOEHRFZLJeiXhK6D719GLSIPDcKEADxALwiWvAs4",
+                                            "expiresAt": 1740614400000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGaAeqmo_7J3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "yevhen-kulyk-pytdev",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1708957865128?e=1735880400&v=beta&t=XC81aukxnY1W20wU8huoNbpWq2B9p-GX4u31g-VTpgc",
+                                            "expiresAt": 1735880400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1708957865128?e=1735880400&v=beta&t=nTFv0Qq73U3YGOh4-IxCjw8otRegw3rPjrnGsXAZJcA",
+                                            "expiresAt": 1735880400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 611,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1708957865128?e=1735880400&v=beta&t=ToPtVH-Q82ScYuzG8-YE_-xU3lXHRq0acn2MaxdzouY",
+                                            "expiresAt": 1735880400000,
+                                            "height": 611
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1708957865128?e=1735880400&v=beta&t=lE2lTBg_vMWGLOT1BFlA2NIE_JNBZDnV5QR6q8Hc62g",
+                                            "expiresAt": 1735880400000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQF7wazHVz2owA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qucWkigfRpqUOPrRJuvxtw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1712126202,421211162)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI"
+                    }
+                ],
+                "description": "Technologies: FastAPI, PostgreSQL, SQLAlchemy, Sphinx, Unittest, Pytest, Docker, Redis, Deploy, Cloudinary.\nApplication for uploading photos by registered users in Cloudinary. Registration requires email confirmation. Implemented work with comments, tags, ratings, searching, transformation of photos, creating a link to the photo's qrcode, user ban.",
+                "title": "PhotoApp"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,2305883784)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Yevhen",
+                            "lastName": "Kulyk",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "occupation": "Python Developer",
+                            "objectUrn": "urn:li:member:1233588011",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1702744474766?e=1740614400&v=beta&t=voQoPLSXfOikqy1zuhxh4KGslZVoRSisYwQILCQ8SSc",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702744474766?e=1740614400&v=beta&t=LhBiOEHRFZLJeiXhK6D719GLSIPDcKEADxALwiWvAs4",
+                                            "expiresAt": 1740614400000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGaAeqmo_7J3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "yevhen-kulyk-pytdev",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1708957865128?e=1735880400&v=beta&t=XC81aukxnY1W20wU8huoNbpWq2B9p-GX4u31g-VTpgc",
+                                            "expiresAt": 1735880400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1708957865128?e=1735880400&v=beta&t=nTFv0Qq73U3YGOh4-IxCjw8otRegw3rPjrnGsXAZJcA",
+                                            "expiresAt": 1735880400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 611,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1708957865128?e=1735880400&v=beta&t=ToPtVH-Q82ScYuzG8-YE_-xU3lXHRq0acn2MaxdzouY",
+                                            "expiresAt": 1735880400000,
+                                            "height": 611
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1708957865128?e=1735880400&v=beta&t=lE2lTBg_vMWGLOT1BFlA2NIE_JNBZDnV5QR6q8Hc62g",
+                                            "expiresAt": 1735880400000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQF7wazHVz2owA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qucWkigfRpqUOPrRJuvxtw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1712357427,421206793)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI"
+                    }
+                ],
+                "description": "Technologies: Django, PostgreSQL, HTML, Deploy, Cloudinary, Keras, Matplotlib, Numpy, Tensorflow. .\nApplication for image classification using a neural network. Filling the database with information about users and uploaded images. Classification of image formats .jpg, .jpeg and .svg.",
+                "title": "Picture Classify Hub"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,2305883784)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Yevhen",
+                            "lastName": "Kulyk",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "occupation": "Python Developer",
+                            "objectUrn": "urn:li:member:1233588011",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1702744474766?e=1740614400&v=beta&t=voQoPLSXfOikqy1zuhxh4KGslZVoRSisYwQILCQ8SSc",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702744474766?e=1740614400&v=beta&t=LhBiOEHRFZLJeiXhK6D719GLSIPDcKEADxALwiWvAs4",
+                                            "expiresAt": 1740614400000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5616AQGaAeqmo_7J3A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "yevhen-kulyk-pytdev",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1708957865128?e=1735880400&v=beta&t=XC81aukxnY1W20wU8huoNbpWq2B9p-GX4u31g-VTpgc",
+                                            "expiresAt": 1735880400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1708957865128?e=1735880400&v=beta&t=nTFv0Qq73U3YGOh4-IxCjw8otRegw3rPjrnGsXAZJcA",
+                                            "expiresAt": 1735880400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 611,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1708957865128?e=1735880400&v=beta&t=ToPtVH-Q82ScYuzG8-YE_-xU3lXHRq0acn2MaxdzouY",
+                                            "expiresAt": 1735880400000,
+                                            "height": 611
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1708957865128?e=1735880400&v=beta&t=lE2lTBg_vMWGLOT1BFlA2NIE_JNBZDnV5QR6q8Hc62g",
+                                            "expiresAt": 1735880400000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQF7wazHVz2owA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qucWkigfRpqUOPrRJuvxtw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI,1712005541,421211149)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI"
+                    }
+                ],
+                "description": "Technologies: FastAPI, PostgreSQL, SQLAlchemy, Sphinx, Unittest, Pytest.\nApplication for storing and managing contacts. Authorization using JWT tokens. The user has access only to his contact transactions. Email verification. CORS enabled. Possibility to update your avatar. The number of requests and the speed of contact creation have been limited. Documenting with Sphinx. Testing with Unittest and Pytest.",
+                "title": "REST API"
+            }
+        ],
+        "skills": [
+            {
+                "name": "GitLub"
+            },
+            {
+                "name": "Code Review"
+            },
+            {
+                "name": "German B1"
+            },
+            {
+                "name": "QBCore"
+            }
+        ],
+        "urn_id": "ACoAAEmHDysBSiRnGl1sfeQN3szKeiVILzxe0wI",
+        "contact_info": {
+            "email_address": null,
+            "websites": [],
+            "twitter": [],
+            "birthdate": {
+                "month": 4,
+                "day": 16
+            },
+            "ims": null,
+            "phone_numbers": []
+        }
+    },
+    {
+        "industryName": "Computer Software",
+        "lastName": "Sobol",
+        "locationName": "Germany",
+        "student": false,
+        "geoCountryName": "Germany",
+        "geoCountryUrn": "urn:li:fs_geo:101282230",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Serhii",
+        "phoneticLastName": "",
+        "entityUrn": "urn:li:fs_profile:ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102585287"
+        },
+        "geoLocationName": "Bad Buchau, Baden-Württemberg",
+        "location": {
+            "basicLocation": {
+                "countryCode": "de"
+            }
+        },
+        "headline": "Python Developer",
+        "phoneticFirstName": "",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQG9bpudsZAHGA/profile-framedphoto-shrink_",
+        "img_400_400": "400_400/profile-framedphoto-shrink_400_400/0/1721838578587?e=1735880400&v=beta&t=btczBY_kPvJRPb8fpXLWSAyNWJ3o3LN-8VZB6hxS-4w",
+        "img_200_200": "200_200/profile-framedphoto-shrink_200_200/0/1721838578587?e=1735880400&v=beta&t=vSmxuVewaGzqYjMufyAUZL-HcD13rrAxIk27vvT0gio",
+        "img_640_640": "800_800/profile-framedphoto-shrink_800_800/0/1721838578587?e=1735880400&v=beta&t=O6VLJk_l4O3QznmpEnG77KoOaCqUpQUgAfOkHks8DOY",
+        "img_100_100": "100_100/profile-framedphoto-shrink_100_100/0/1721838578571?e=1735880400&v=beta&t=jb6WRzz6nBTdY8FErdj9QR1BQdbxfa-GHPKrA6PnASA",
+        "profile_id": "ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8",
+        "member_urn": "urn:li:member:1027829070",
+        "public_id": "sergsobol",
+        "experience": [
+            {
+                "locationName": "Украина",
+                "entityUrn": "urn:li:fs_position:(ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8,2130372954)",
+                "geoLocationName": "Украина",
+                "geoUrn": "urn:li:fs_geo:102264497",
+                "companyName": "avivi.pro",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2023
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Industrial Automation"
+                    ]
+                },
+                "title": "Python Developer ",
+                "region": "urn:li:fs_region:(ua,0)",
+                "companyUrn": "urn:li:fs_miniCompany:4863020",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHsqbtdgOJJgA/company-logo_"
+            },
+            {
+                "locationName": "Хмельницкий, Хмельницкая область, Украина",
+                "entityUrn": "urn:li:fs_position:(ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8,2079807633)",
+                "geoLocationName": "Хмельницкий, Хмельницкая область, Украина",
+                "geoUrn": "urn:li:fs_geo:100733553",
+                "companyName": "SKILLUP (Ukraine)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Professional Training & Coaching"
+                    ]
+                },
+                "title": "QA Engineer",
+                "region": "urn:li:fs_region:(ua,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2974527",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGinZb3As9RvA/company-logo_"
+            },
+            {
+                "locationName": "Родинское, Донецкая область, Украина",
+                "entityUrn": "urn:li:fs_position:(ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8,2052574215)",
+                "geoLocationName": "Родинское, Донецкая область, Украина",
+                "geoUrn": "urn:li:fs_geo:103107601",
+                "companyName": "State Enterprise, Krasnolimanskaya Coal Company",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "description": "Substitute Miner and Site Mechanic",
+                "title": "Electrician, mining foreman",
+                "region": "urn:li:fs_region:(ua,0)"
+            },
+            {
+                "locationName": "Покровск, Донецкая область, Украина",
+                "entityUrn": "urn:li:fs_position:(ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8,2052572190)",
+                "geoLocationName": "Покровск, Донецкая область, Украина",
+                "geoUrn": "urn:li:fs_geo:101090591",
+                "companyName": "PRIVATE JOINT-STOCK COMPANY APK-INVEST",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "description": "Production of feed for livestock",
+                "title": "Support Worker",
+                "region": "urn:li:fs_region:(ua,0)"
+            },
+            {
+                "locationName": "Родинское, Донецкая область, Украина",
+                "entityUrn": "urn:li:fs_position:(ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8,2052560772)",
+                "geoLocationName": "Родинское, Донецкая область, Украина",
+                "geoUrn": "urn:li:fs_geo:103107601",
+                "companyName": "State Enterprise, Krasnolimanskaya Coal Company",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2015
+                    }
+                },
+                "description": "Mine repair worker",
+                "title": "Miner",
+                "region": "urn:li:fs_region:(ua,0)"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8,833829692)",
+                "school": {
+                    "objectUrn": "urn:li:school:583005",
+                    "entityUrn": "urn:li:fs_miniSchool:583005",
+                    "active": true,
+                    "schoolName": "Donetsk National Technical University",
+                    "trackingId": "4GrkxJzmTia8i9HaqbVExQ==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFwzDcDPcpk7A/company-logo_"
+                },
+                "activities": "Development of Mineral Deposits and Mining",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2016
+                    }
+                },
+                "description": "Mining Engineer",
+                "degreeName": "Specialist Degree",
+                "schoolName": "Донецкий Национальный Технический Университет",
+                "fieldOfStudy": "Mining",
+                "schoolUrn": "urn:li:fs_miniSchool:583005"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8,818114877)",
+                "school": {
+                    "objectUrn": "urn:li:school:583005",
+                    "entityUrn": "urn:li:fs_miniSchool:583005",
+                    "active": true,
+                    "schoolName": "Donetsk National Technical University",
+                    "trackingId": "U6Y41l26Rv2Z1UAb/aD/5g==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFwzDcDPcpk7A/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2012
+                    }
+                },
+                "degreeName": "Bachelor of Electromechanics",
+                "schoolName": "Донецкий Национальный Технический Университет",
+                "fieldOfStudy": "Electromechanics",
+                "schoolUrn": "urn:li:fs_miniSchool:583005"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8,833834150)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2006
+                    }
+                },
+                "degreeName": "Vocational education",
+                "schoolName": "Dimitrovsky Professional Mining Lyceum",
+                "fieldOfStudy": "Computer typing operator"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Английский",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Русский",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Украинский",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Stepik",
+                "name": "Вселенная тестирования, или Как стать тестировщиком",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:10049208",
+                    "entityUrn": "urn:li:fs_miniCompany:10049208",
+                    "name": "Stepik",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630637018778/stepic_logo?e=1743638400&v=beta&t=a6pRAuGk4FlD_5CrPvB3uF2QWozgHeUf6JOgODDhub0",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630637018778/stepic_logo?e=1743638400&v=beta&t=v_DwzYx60AN1iJwYFFaRPLUaIysNVrIptlCJwBky0Oc",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630637018778/stepic_logo?e=1743638400&v=beta&t=ZYBIb9F58ihQXSa7LDaT7P4KPA9WDI9mUMiEPjC1OLM",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF4FoapgWWOyA/company-logo_"
+                        }
+                    },
+                    "universalName": "stepik",
+                    "dashCompanyUrn": "urn:li:fsd_company:10049208",
+                    "trackingId": "+tKR3icrQue2i0j/Bp1oyw=="
+                },
+                "displaySource": "stepik.org",
+                "companyUrn": "urn:li:fs_miniCompany:10049208",
+                "url": "https://stepik.org/cert/1759461"
+            },
+            {
+                "authority": "Stepik",
+                "name": "Тестирование ПО: Postman для тестирования API",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:10049208",
+                    "entityUrn": "urn:li:fs_miniCompany:10049208",
+                    "name": "Stepik",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630637018778/stepic_logo?e=1743638400&v=beta&t=a6pRAuGk4FlD_5CrPvB3uF2QWozgHeUf6JOgODDhub0",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630637018778/stepic_logo?e=1743638400&v=beta&t=v_DwzYx60AN1iJwYFFaRPLUaIysNVrIptlCJwBky0Oc",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630637018778/stepic_logo?e=1743638400&v=beta&t=ZYBIb9F58ihQXSa7LDaT7P4KPA9WDI9mUMiEPjC1OLM",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF4FoapgWWOyA/company-logo_"
+                        }
+                    },
+                    "universalName": "stepik",
+                    "dashCompanyUrn": "urn:li:fsd_company:10049208",
+                    "trackingId": "pl5EabNPSHev/aNXE295YA=="
+                },
+                "displaySource": "stepik.org",
+                "companyUrn": "urn:li:fs_miniCompany:10049208",
+                "url": "https://stepik.org/cert/1770865"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Serhii",
+                            "lastName": "Sobol",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8",
+                            "occupation": "Python Developer",
+                            "objectUrn": "urn:li:member:1027829070",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1686583642994?e=1740614400&v=beta&t=5m_XI0M7BPoovINEaeJuwVK_4p-LoK_CXGx6pOol36k",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1686583642994?e=1740614400&v=beta&t=1fzZG0Bnds4VS-g2mtz0D5KhbgDZh-Dc7fiS7uq_KNE",
+                                            "expiresAt": 1740614400000,
+                                            "height": 250
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEfxX8yQ2CU9A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sergsobol",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-framedphoto-shrink_400_400/0/1721838578587?e=1735880400&v=beta&t=btczBY_kPvJRPb8fpXLWSAyNWJ3o3LN-8VZB6hxS-4w",
+                                            "expiresAt": 1735880400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-framedphoto-shrink_200_200/0/1721838578587?e=1735880400&v=beta&t=vSmxuVewaGzqYjMufyAUZL-HcD13rrAxIk27vvT0gio",
+                                            "expiresAt": 1735880400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 640,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-framedphoto-shrink_800_800/0/1721838578587?e=1735880400&v=beta&t=O6VLJk_l4O3QznmpEnG77KoOaCqUpQUgAfOkHks8DOY",
+                                            "expiresAt": 1735880400000,
+                                            "height": 640
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-framedphoto-shrink_100_100/0/1721838578571?e=1735880400&v=beta&t=jb6WRzz6nBTdY8FErdj9QR1BQdbxfa-GHPKrA6PnASA",
+                                            "expiresAt": 1735880400000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4E35AQG9bpudsZAHGA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "MqV2lXp+TZmke5A1Cojuvw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8,1454342398,423801620)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8"
+                    }
+                ],
+                "title": "GitHub"
+            }
+        ],
+        "skills": [
+            {
+                "name": "DjangoRESTFramework"
+            },
+            {
+                "name": "Nginx"
+            },
+            {
+                "name": "Docker"
+            },
+            {
+                "name": "Docker compose"
+            }
+        ],
+        "urn_id": "ACoAAD1DbU4BuTGe7BXok3pOmhTfWicV2gs6-A8",
+        "contact_info": {
+            "email_address": "sergsobol91@gmail.com",
+            "websites": [
+                {
+                    "url": "t.me/SergSobl",
+                    "label": "PERSONAL"
+                }
+            ],
+            "twitter": [],
+            "birthdate": null,
+            "ims": null,
+            "phone_numbers": []
+        }
+    },
+    {
+        "summary": "A Software Engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering.\n\nToday, I am studying Data Science as a master's student at Berliner Hochschule für Technik (BHT). Formerly, I worked as a Python Developer at Tata Consultancy Services (TCS), India, for 3 years and interned as a Unity Developer at a growing new-age company. I have also taken the initiative and explored my interests to constantly learn new things and play with different projects using different languages and tools.\n\nTechnical Skills:\n- Languages: Python (Pandas, Numpy, MatPlotLib), SQL (MySQL, PostgreSQL), C#, DAX, HTML, CSS\n- Tools/Technologies: Azure Databricks, Microsoft Power BI, Microsoft Excel, Git, Jira, Unity\n- Industry Knowledge: Data Structures and Algorithms, Exploratory Data Analysis (EDA), Object-Oriented Programming\n\nI enjoy exploring and connecting with people across a range of industries, so don't hesitate to reach out if you'd like to get in touch: mishrachiraag@gmail.com",
+        "industryName": "Computer Software",
+        "lastName": "Mishra",
+        "locationName": "Germany",
+        "student": false,
+        "geoCountryName": "Germany",
+        "geoCountryUrn": "urn:li:fs_geo:101282230",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 10,
+            "day": 25
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Chiraag",
+        "entityUrn": "urn:li:fs_profile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101282230"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "de"
+            }
+        },
+        "headline": "Data Science Master's Student at BHT | Data Science Working Student at salvevita",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQE7Hf8Kh7GqLQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1727200769137?e=1740614400&v=beta&t=WgP4kgEwy4y30oF_iwjYmObJ-6ZBntMMzCxPprAYJsQ",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1727200769137?e=1740614400&v=beta&t=GZZHSD0zz-Dv_6MZkS_RTauUsybgIgi3SfTriQ-SdU0",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1727200769137?e=1740614400&v=beta&t=CpncbmrHwyA2G7H3htkAJbjgCqSjZBZxvsKdKUNhzcs",
+        "img_576_576": "800_800/profile-displayphoto-shrink_800_800/0/1727200769139?e=1740614400&v=beta&t=CvgZfgPIO67GqhQfjg4IAi4PX7pX06DPNqjvX8qLwRk",
+        "profile_id": "ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+        "member_urn": "urn:li:member:718310858",
+        "public_id": "chiraag-mishra",
+        "experience": [
+            {
+                "locationName": "Berlin, Germany",
+                "entityUrn": "urn:li:fs_position:(ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A,2537195994)",
+                "geoLocationName": "Berlin, Germany",
+                "geoUrn": "urn:li:fs_geo:103035651",
+                "companyName": "salvevita",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Government Administration"
+                    ]
+                },
+                "title": "Data Science Working Student ",
+                "region": "urn:li:fs_region:(de,0)",
+                "companyUrn": "urn:li:fs_miniCompany:98184973",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQF4YbrOCrgG3w/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A,1942522674)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Tata Consultancy Services",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "description": "• Implemented scalable Python-based solutions to automate key processes and data flow, significantly reducing manual effort and enhancing productivity.\n• Participated in code reviews, unit testing and debugging sessions, ensuring high-quality deliverables.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Python Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1353",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_"
+            },
+            {
+                "locationName": "Remote",
+                "entityUrn": "urn:li:fs_position:(ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A,1942521961)",
+                "geoLocationName": "Remote",
+                "companyName": "Gamestacy",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "description": "• Developed and documented clean, readable and reusable code in C# using established coding standards.\n• Enhanced performance and reduced scene loading time by 70% using design patterns, scriptable objects and object pools.\n• Tested application for bugs, fixing bugs and documenting processes to increase efficiency by 18%.\n• Increased user base by 30% by localizing the application in multiple languages.\n• Utilized Unity as a development environment in order to visualize the applications in Android.\n• Collaborated with an agile team of 6 and communicated daily with team members using Jira and version control systems such as Git to plan, track and manage the project.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Games"
+                    ]
+                },
+                "title": "Software Developer",
+                "companyUrn": "urn:li:fs_miniCompany:13215153",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQGv7o7BezFMVA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A,1020542969)",
+                "school": {
+                    "objectUrn": "urn:li:school:3345016",
+                    "entityUrn": "urn:li:fs_miniSchool:3345016",
+                    "active": true,
+                    "schoolName": "Berlin University of Applied Sciences Berlin (BHT)",
+                    "trackingId": "pBfBINcvTz6zD+pnLlqR5g==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHfJ_uZ0UQXPw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2026
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2024
+                    }
+                },
+                "degreeName": "Master of Science - MS",
+                "schoolName": "Berlin University of Applied Sciences Berlin (BHT)",
+                "fieldOfStudy": "Data Science",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:3345016"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A,715308040)",
+                "school": {
+                    "objectUrn": "urn:li:school:3232400",
+                    "entityUrn": "urn:li:fs_miniSchool:3232400",
+                    "active": true,
+                    "schoolName": "University of Engineering & Management (UEM)",
+                    "trackingId": "hPXgybTxS7uFisU8w7YHWw==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQEJdQvJ5ypsQw/company-logo_"
+                },
+                "grade": "9.22",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "description": "Coursework: Design and Analysis of Algorithms, Data Structures, Database Management Systems, Object-Oriented Programming",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Technology",
+                "schoolName": "University of Engineering & Management (UEM)",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:3232400"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Chiraag",
+                            "lastName": "Mishra",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+                            "occupation": "Data Science Master's Student at BHT | Data Science Working Student at salvevita",
+                            "objectUrn": "urn:li:member:718310858",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1648817293644?e=1740614400&v=beta&t=HfMgs2AwajhlXtey00A_X_etFEyDJR98K98Jyq8F3SQ",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 992,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648817293644?e=1740614400&v=beta&t=SrYF6s9g5T8o00eAR6Oe4wAJbdKCS_nHvZ7OL552Hqk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 248
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQGEWQfBzEs3jg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "chiraag-mishra",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1727200769137?e=1740614400&v=beta&t=WgP4kgEwy4y30oF_iwjYmObJ-6ZBntMMzCxPprAYJsQ",
+                                            "expiresAt": 1740614400000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1727200769137?e=1740614400&v=beta&t=GZZHSD0zz-Dv_6MZkS_RTauUsybgIgi3SfTriQ-SdU0",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1727200769137?e=1740614400&v=beta&t=CpncbmrHwyA2G7H3htkAJbjgCqSjZBZxvsKdKUNhzcs",
+                                            "expiresAt": 1740614400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 576,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1727200769139?e=1740614400&v=beta&t=CvgZfgPIO67GqhQfjg4IAi4PX7pX06DPNqjvX8qLwRk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 576
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQE7Hf8Kh7GqLQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fKizpumiTmKWshQVYh72bA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A,2015399392,397018222)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2023
+                    }
+                },
+                "description": "• Utilized Python to analyze top 30 ranked cryptocurrencies and gain insights on their performances.\n• Automated data extraction from a website API and stored in a CSV file.\n• Visualized the data by using pandas, matplotlib and Power BI to compile a professional report.",
+                "title": "CRYPTOCURRENCY ANALYSIS"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Chiraag",
+                            "lastName": "Mishra",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+                            "occupation": "Data Science Master's Student at BHT | Data Science Working Student at salvevita",
+                            "objectUrn": "urn:li:member:718310858",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1648817293644?e=1740614400&v=beta&t=HfMgs2AwajhlXtey00A_X_etFEyDJR98K98Jyq8F3SQ",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 992,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648817293644?e=1740614400&v=beta&t=SrYF6s9g5T8o00eAR6Oe4wAJbdKCS_nHvZ7OL552Hqk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 248
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQGEWQfBzEs3jg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "chiraag-mishra",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1727200769137?e=1740614400&v=beta&t=WgP4kgEwy4y30oF_iwjYmObJ-6ZBntMMzCxPprAYJsQ",
+                                            "expiresAt": 1740614400000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1727200769137?e=1740614400&v=beta&t=GZZHSD0zz-Dv_6MZkS_RTauUsybgIgi3SfTriQ-SdU0",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1727200769137?e=1740614400&v=beta&t=CpncbmrHwyA2G7H3htkAJbjgCqSjZBZxvsKdKUNhzcs",
+                                            "expiresAt": 1740614400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 576,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1727200769139?e=1740614400&v=beta&t=CvgZfgPIO67GqhQfjg4IAi4PX7pX06DPNqjvX8qLwRk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 576
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQE7Hf8Kh7GqLQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fKizpumiTmKWshQVYh72bA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A,2015580864,397020124)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2023
+                    }
+                },
+                "description": "• Created a dashboard with Power BI to compare numerous parameters between different job titles in the data industry.\n• Transformed and processed the data by GitHub using DAX and Excel to ensure data completeness and validity.\n• Consulted with peers to determine the best metrics to be displayed on the final product.",
+                "title": "DATA PROFESSIONALS SURVEY ANALYSIS DASHBOARD"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Chiraag",
+                            "lastName": "Mishra",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+                            "occupation": "Data Science Master's Student at BHT | Data Science Working Student at salvevita",
+                            "objectUrn": "urn:li:member:718310858",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1648817293644?e=1740614400&v=beta&t=HfMgs2AwajhlXtey00A_X_etFEyDJR98K98Jyq8F3SQ",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 992,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648817293644?e=1740614400&v=beta&t=SrYF6s9g5T8o00eAR6Oe4wAJbdKCS_nHvZ7OL552Hqk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 248
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQGEWQfBzEs3jg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "chiraag-mishra",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1727200769137?e=1740614400&v=beta&t=WgP4kgEwy4y30oF_iwjYmObJ-6ZBntMMzCxPprAYJsQ",
+                                            "expiresAt": 1740614400000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1727200769137?e=1740614400&v=beta&t=GZZHSD0zz-Dv_6MZkS_RTauUsybgIgi3SfTriQ-SdU0",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1727200769137?e=1740614400&v=beta&t=CpncbmrHwyA2G7H3htkAJbjgCqSjZBZxvsKdKUNhzcs",
+                                            "expiresAt": 1740614400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 576,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1727200769139?e=1740614400&v=beta&t=CvgZfgPIO67GqhQfjg4IAi4PX7pX06DPNqjvX8qLwRk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 576
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQE7Hf8Kh7GqLQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fKizpumiTmKWshQVYh72bA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A,2015635214,397024015)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2023
+                    }
+                },
+                "description": "• Executed a comprehensive housing data cleaning project using MySQL, ensuring accuracy and consistency in the dataset of over 50000 rows, resulting in improved data quality and reliable analysis for informed decision-making.\n• Employed SQL queries to cleanse and standardize housing data using JOIN and CTE, demonstrating data wrangling skills and attention to detail in preparing a clean and reliable dataset for further analysis.",
+                "title": "HOUSING DATA CLEANING USING SQL"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Chiraag",
+                            "lastName": "Mishra",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+                            "occupation": "Data Science Master's Student at BHT | Data Science Working Student at salvevita",
+                            "objectUrn": "urn:li:member:718310858",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1648817293644?e=1740614400&v=beta&t=HfMgs2AwajhlXtey00A_X_etFEyDJR98K98Jyq8F3SQ",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 992,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648817293644?e=1740614400&v=beta&t=SrYF6s9g5T8o00eAR6Oe4wAJbdKCS_nHvZ7OL552Hqk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 248
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQGEWQfBzEs3jg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "chiraag-mishra",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1727200769137?e=1740614400&v=beta&t=WgP4kgEwy4y30oF_iwjYmObJ-6ZBntMMzCxPprAYJsQ",
+                                            "expiresAt": 1740614400000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1727200769137?e=1740614400&v=beta&t=GZZHSD0zz-Dv_6MZkS_RTauUsybgIgi3SfTriQ-SdU0",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1727200769137?e=1740614400&v=beta&t=CpncbmrHwyA2G7H3htkAJbjgCqSjZBZxvsKdKUNhzcs",
+                                            "expiresAt": 1740614400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 576,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1727200769139?e=1740614400&v=beta&t=CvgZfgPIO67GqhQfjg4IAi4PX7pX06DPNqjvX8qLwRk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 576
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQE7Hf8Kh7GqLQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fKizpumiTmKWshQVYh72bA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A,1794285261,362279743)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2022
+                    }
+                },
+                "description": "• Created a file-compressor that compresses any text file by an average of 20%.\n• Implemented compression and decompression using Huffman Coding and heap data structure in Python.",
+                "title": "File Compressor",
+                "url": "https://github.com/akachags/File-Compressor"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Chiraag",
+                            "lastName": "Mishra",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+                            "occupation": "Data Science Master's Student at BHT | Data Science Working Student at salvevita",
+                            "objectUrn": "urn:li:member:718310858",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1648817293644?e=1740614400&v=beta&t=HfMgs2AwajhlXtey00A_X_etFEyDJR98K98Jyq8F3SQ",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 992,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648817293644?e=1740614400&v=beta&t=SrYF6s9g5T8o00eAR6Oe4wAJbdKCS_nHvZ7OL552Hqk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 248
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQGEWQfBzEs3jg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "chiraag-mishra",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1727200769137?e=1740614400&v=beta&t=WgP4kgEwy4y30oF_iwjYmObJ-6ZBntMMzCxPprAYJsQ",
+                                            "expiresAt": 1740614400000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1727200769137?e=1740614400&v=beta&t=GZZHSD0zz-Dv_6MZkS_RTauUsybgIgi3SfTriQ-SdU0",
+                                            "expiresAt": 1740614400000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1727200769137?e=1740614400&v=beta&t=CpncbmrHwyA2G7H3htkAJbjgCqSjZBZxvsKdKUNhzcs",
+                                            "expiresAt": 1740614400000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 576,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1727200769139?e=1740614400&v=beta&t=CvgZfgPIO67GqhQfjg4IAi4PX7pX06DPNqjvX8qLwRk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 576
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQE7Hf8Kh7GqLQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fKizpumiTmKWshQVYh72bA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A,134645246,303577062)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "description": "• Prototyped a 2D hyper-casual arcade game for Android and Windows using Unity. Inspired by Fruit Ninja, the game spawns different\ntypes of boxes within the player’s viewport.\n• Designed C# scripts and implemented object-oriented programming practices such as encapsulation to hide internal object details.\n• Multiple levels of difficulty with ease for designers to change several parameters that affect the course of the game.",
+                "title": "Clicky-Crates",
+                "url": "https://www.dropbox.com/sh/hewpj51o51ox7hy/AAA97H9gIfOMXEKPziK2h7o-a?dl=0"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Data Analysis"
+            },
+            {
+                "name": "Software Development"
+            },
+            {
+                "name": "Database Management System (DBMS)"
+            },
+            {
+                "name": "Azure Databricks"
+            }
+        ],
+        "urn_id": "ACoAACrQjcoBwbczBziWqB6IDBcJxnX7lZN7p0A",
+        "contact_info": {
+            "email_address": "mishrachiraag@gmail.com",
+            "websites": [],
+            "twitter": [],
+            "birthdate": {
+                "month": 10,
+                "day": 25
+            },
+            "ims": null,
+            "phone_numbers": []
+        }
+    },
+    {
+        "summary": "I am an Python programmer exploring and working on many different python projects that mostly involve Computer Vision. Furthermore, I am passionate about learning and implementing new skills and technology.",
+        "industryName": "Computer Software",
+        "lastName": "Raza",
+        "locationName": "Germany",
+        "student": false,
+        "geoCountryName": "Germany",
+        "geoCountryUrn": "urn:li:fs_geo:101282230",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Jawad",
+        "entityUrn": "urn:li:fs_profile:ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106967730"
+        },
+        "geoLocationName": "Berlin, Berlin",
+        "location": {
+            "basicLocation": {
+                "countryCode": "de"
+            }
+        },
+        "headline": "Software Engineer | UI-UX Designer | Python Developer ",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQG5Iq6MNIENUQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1610024538327?e=1740614400&v=beta&t=m9wza1iBWlOz-CQtlcAY5BRIA3Yo6Dec1nZGwk3X8c0",
+        "img_150_150": "800_800/profile-displayphoto-shrink_800_800/0/1610024538327?e=1740614400&v=beta&t=syWfrhiGbqswrO-ltu-hFlSuPqMhDHl0hWoCy5knT_Q",
+        "profile_id": "ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4",
+        "member_urn": "urn:li:member:727144215",
+        "public_id": "jawad-raza-073629183",
+        "experience": [
+            {
+                "locationName": "Sindh, Pakistan",
+                "entityUrn": "urn:li:fs_position:(ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4,2476210850)",
+                "geoLocationName": "Sindh, Pakistan",
+                "geoUrn": "urn:li:fs_geo:102489242",
+                "companyName": "Solution Services & Consultancy Pvt Ltd",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2024
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Python Developer",
+                "region": "urn:li:fs_region:(pk,0)",
+                "companyUrn": "urn:li:fs_miniCompany:80920291",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQE-1msOYnDGSQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4,1039167627)",
+                "school": {
+                    "objectUrn": "urn:li:school:5096092",
+                    "entityUrn": "urn:li:fs_miniSchool:5096092",
+                    "active": true,
+                    "schoolName": "Berlin School of Business & Innovation (BSBI)",
+                    "trackingId": "anib5aB8ScCN9IZKkdrjsA==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQHC2KkIUGHBzg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2026
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2024
+                    }
+                },
+                "degreeName": "Master's degree",
+                "schoolName": "Berlin School of Business & Innovation (BSBI)",
+                "fieldOfStudy": "Data Analytics",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:5096092"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4,1559481651)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4,698333140)",
+                "school": {
+                    "objectUrn": "urn:li:school:5111016",
+                    "entityUrn": "urn:li:fs_miniSchool:5111016",
+                    "active": true,
+                    "schoolName": "Usman Institute of Technology",
+                    "trackingId": "LjVeZp+NSUClgjr6WNUiig==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQEoZtgmNSOw7g/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100349",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Usman Institute of Technology",
+                "fieldOfStudy": "Computer Software Engineering",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:5111016"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4,698333140)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jawad",
+                            "lastName": "Raza",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4",
+                            "occupation": "Software Engineer | UI-UX Designer | Python Developer",
+                            "objectUrn": "urn:li:member:727144215",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 566,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1610023412118?e=1740614400&v=beta&t=HiNCbe74JqqO0VOXjzmnSkCzhUvlNgYcr-BRu--7_Ko",
+                                            "expiresAt": 1740614400000,
+                                            "height": 141
+                                        },
+                                        {
+                                            "width": 566,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1610023412118?e=1740614400&v=beta&t=rAYRV-Ftx_D0pXBM8Rn9MC4LIVFooO_CIgMA4nVaXGw",
+                                            "expiresAt": 1740614400000,
+                                            "height": 141
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQGotHOalrz3Aw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "jawad-raza-073629183",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1610024538327?e=1740614400&v=beta&t=m9wza1iBWlOz-CQtlcAY5BRIA3Yo6Dec1nZGwk3X8c0",
+                                            "expiresAt": 1740614400000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 150,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1610024538327?e=1740614400&v=beta&t=BZnIF1O7x-Zxi3T4Lf0DwxC0N33NQPaJ9chI0JaGhKk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 150
+                                        },
+                                        {
+                                            "width": 150,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1610024538327?e=1740614400&v=beta&t=knXfpiPsec3gYHwoJ0tq4G4UPZrzquyPlx9rM8VDGnc",
+                                            "expiresAt": 1740614400000,
+                                            "height": 150
+                                        },
+                                        {
+                                            "width": 150,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1610024538327?e=1740614400&v=beta&t=syWfrhiGbqswrO-ltu-hFlSuPqMhDHl0hWoCy5knT_Q",
+                                            "expiresAt": 1740614400000,
+                                            "height": 150
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQG5Iq6MNIENUQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ZVMuWg+FS1OejiYnt6XpzQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4,1559481651,294013341)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "title": "Sui Gas "
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Jawad",
+                            "lastName": "Raza",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4",
+                            "occupation": "Software Engineer | UI-UX Designer | Python Developer",
+                            "objectUrn": "urn:li:member:727144215",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 566,
+                                            "fileIdentifyingUrlPathSegment": "200_800/profile-displaybackgroundimage-shrink_200_800/0/1610023412118?e=1740614400&v=beta&t=HiNCbe74JqqO0VOXjzmnSkCzhUvlNgYcr-BRu--7_Ko",
+                                            "expiresAt": 1740614400000,
+                                            "height": 141
+                                        },
+                                        {
+                                            "width": 566,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1610023412118?e=1740614400&v=beta&t=rAYRV-Ftx_D0pXBM8Rn9MC4LIVFooO_CIgMA4nVaXGw",
+                                            "expiresAt": 1740614400000,
+                                            "height": 141
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5616AQGotHOalrz3Aw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "jawad-raza-073629183",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1610024538327?e=1740614400&v=beta&t=m9wza1iBWlOz-CQtlcAY5BRIA3Yo6Dec1nZGwk3X8c0",
+                                            "expiresAt": 1740614400000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 150,
+                                            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1610024538327?e=1740614400&v=beta&t=BZnIF1O7x-Zxi3T4Lf0DwxC0N33NQPaJ9chI0JaGhKk",
+                                            "expiresAt": 1740614400000,
+                                            "height": 150
+                                        },
+                                        {
+                                            "width": 150,
+                                            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1610024538327?e=1740614400&v=beta&t=knXfpiPsec3gYHwoJ0tq4G4UPZrzquyPlx9rM8VDGnc",
+                                            "expiresAt": 1740614400000,
+                                            "height": 150
+                                        },
+                                        {
+                                            "width": 150,
+                                            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1610024538327?e=1740614400&v=beta&t=syWfrhiGbqswrO-ltu-hFlSuPqMhDHl0hWoCy5knT_Q",
+                                            "expiresAt": 1740614400000,
+                                            "height": 150
+                                        }
+                                    ],
+                                    "rootUrl": "https://media.licdn.com/dms/image/v2/C5603AQG5Iq6MNIENUQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ZVMuWg+FS1OejiYnt6XpzQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4,1559616100,294011625)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "title": "Election System (Python)"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Project Management"
+            },
+            {
+                "name": "Python (Programming Language)"
+            },
+            {
+                "name": "Software Development"
+            },
+            {
+                "name": "Web Design"
+            }
+        ],
+        "urn_id": "ACoAACtXVxcBW4JQoXdrcB0UuXcxTsNeT4a5-H4",
+        "contact_info": {
+            "email_address": null,
+            "websites": [],
+            "twitter": [],
+            "birthdate": null,
+            "ims": null,
+            "phone_numbers": []
+        }
+    },
+    {
+        "industryName": "Computer Software",
+        "lastName": "Nouman",
+        "locationName": "Germany",
+        "student": false,
+        "geoCountryName": "Germany",
+        "geoCountryUrn": "urn:li:fs_geo:101282230",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Muhammad",
+        "entityUrn": "urn:li:fs_profile:ACoAACTYi44Bl7WNAnSycSLmFlm5HcPb2knTJvI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101282230"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "de"
+            }
+        },
+        "headline": "Odoo ERP Developer | Python Developer",
+        "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEp9FqM7y82KQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/profile-displayphoto-shrink_100_100/0/1728312884212?e=1740614400&v=beta&t=IL8QVVm-laAxukgKXoVV8-sWixTG7gsReKLU7QlACL4",
+        "img_200_200": "200_200/profile-displayphoto-shrink_200_200/0/1728312884212?e=1740614400&v=beta&t=nenzaVMOprf28vlqcYbJ1LzSo1SkrctzcrRCPbq_gvI",
+        "img_400_400": "400_400/profile-displayphoto-shrink_400_400/0/1728312884212?e=1740614400&v=beta&t=L3b4qptVrszv_Tw_h_2NbYzf3k83A3YLOs1treZbslo",
+        "img_800_800": "800_800/profile-displayphoto-shrink_800_800/0/1728312884279?e=1740614400&v=beta&t=Fb0XauEUs7q2Yk_ZEfG9F1MTp6TsyzKgjoicFeNyfFY",
+        "profile_id": "ACoAACTYi44Bl7WNAnSycSLmFlm5HcPb2knTJvI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACTYi44Bl7WNAnSycSLmFlm5HcPb2knTJvI",
+        "member_urn": "urn:li:member:618171278",
+        "public_id": "muhammadnouman2240",
+        "experience": [
+            {
+                "locationName": "Pakistan",
+                "entityUrn": "urn:li:fs_position:(ACoAACTYi44Bl7WNAnSycSLmFlm5HcPb2knTJvI,1644243815)",
+                "geoLocationName": "Pakistan",
+                "geoUrn": "urn:li:fs_geo:101022442",
+                "companyName": "ERPify (Odoo Gold Partner)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Odoo Developer",
+                "region": "urn:li:fs_region:(pk,0)",
+                "companyUrn": "urn:li:fs_miniCompany:14018816",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEyRgL6qM6bUg/company-logo_"
+            },
+            {
+                "locationName": "Karachi",
+                "entityUrn": "urn:li:fs_position:(ACoAACTYi44Bl7WNAnSycSLmFlm5HcPb2knTJvI,1558787068)",
+                "geoLocationName": "Karachi",
+                "companyName": "Gerrys Information Technology",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Odoo Developer (Python/JavaScript)",
+                "companyUrn": "urn:li:fs_miniCompany:81685",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFy7qxBrbr-wA/company-logo_"
+            },
+            {
+                "locationName": "Karachi",
+                "entityUrn": "urn:li:fs_position:(ACoAACTYi44Bl7WNAnSycSLmFlm5HcPb2knTJvI,1558784991)",
+                "geoLocationName": "Karachi",
+                "companyName": "Gerrys Information Technology",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Trainee Odoo Developer",
+                "companyUrn": "urn:li:fs_miniCompany:81685",
+                "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQFy7qxBrbr-wA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACTYi44Bl7WNAnSycSLmFlm5HcPb2knTJvI,469591483)",
+                "school": {
+                    "objectUrn": "urn:li:school:15865",
+                    "entityUrn": "urn:li:fs_miniSchool:15865",
+                    "active": true,
+                    "schoolName": "National University of Computer and Emerging Sciences",
+                    "trackingId": "JA+4qnhVToiEEv9klfWeUg==",
+                    "logoUrl": "https://media.licdn.com/dms/image/v2/C510BAQGdFV3S_Aelww/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "National University of Computer and Emerging Sciences",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:15865"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "What is Data Science?",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "4ZE5SCP4DJ22",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=JYzUCR6115C9g4j0Qr6unRfqsVDKTgKizkwJ2sw1k7M",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=1YgZ2SUaH6syWIDE7L2SBVnzZTc8VHqPNoNwQ3uaFlI",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=RHJOzT55x5nodlqNFXpK7gBksL_s6jCAojhOWjHTuSc",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "BQQOSS1vQFS8FLrcZvjU+Q=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/4ZE5SCP4DJ22"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Data Science Orientation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=JYzUCR6115C9g4j0Qr6unRfqsVDKTgKizkwJ2sw1k7M",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=1YgZ2SUaH6syWIDE7L2SBVnzZTc8VHqPNoNwQ3uaFlI",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=RHJOzT55x5nodlqNFXpK7gBksL_s6jCAojhOWjHTuSc",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "ZCcMI38RQlaU30UkPra8vw=="
+                },
+                "displaySource": "youracclaim.com",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.youracclaim.com/badges/e8e4a9d2-abc3-49c4-962d-72a65cf7ffa4/linked_in_profile"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Open Source tools for Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "LKJUK7D2JWW4",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=JYzUCR6115C9g4j0Qr6unRfqsVDKTgKizkwJ2sw1k7M",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=1YgZ2SUaH6syWIDE7L2SBVnzZTc8VHqPNoNwQ3uaFlI",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=RHJOzT55x5nodlqNFXpK7gBksL_s6jCAojhOWjHTuSc",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "y5r11M74SGCr9xpvGhug/Q=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/LKJUK7D2JWW4"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Open Source Tools for Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=JYzUCR6115C9g4j0Qr6unRfqsVDKTgKizkwJ2sw1k7M",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=1YgZ2SUaH6syWIDE7L2SBVnzZTc8VHqPNoNwQ3uaFlI",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=RHJOzT55x5nodlqNFXpK7gBksL_s6jCAojhOWjHTuSc",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "zUJrzM0QTK6133v873Sl+A=="
+                },
+                "displaySource": "youracclaim.com",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.youracclaim.com/badges/843085a8-83bd-4c56-bdf9-7f338e5dd00a/linked_in_profile"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Python for Data Science and AI",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "KC5HCXUVPY6R",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=JYzUCR6115C9g4j0Qr6unRfqsVDKTgKizkwJ2sw1k7M",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=1YgZ2SUaH6syWIDE7L2SBVnzZTc8VHqPNoNwQ3uaFlI",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=RHJOzT55x5nodlqNFXpK7gBksL_s6jCAojhOWjHTuSc",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "lKWqfcfZS8OYaz3/nEMd5w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/KC5HCXUVPY6R"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Python for Applied Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=JYzUCR6115C9g4j0Qr6unRfqsVDKTgKizkwJ2sw1k7M",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=1YgZ2SUaH6syWIDE7L2SBVnzZTc8VHqPNoNwQ3uaFlI",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1743638400&v=beta&t=RHJOzT55x5nodlqNFXpK7gBksL_s6jCAojhOWjHTuSc",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "uD44FaLmTeaHA0N0HaQENg=="
+                },
+                "displaySource": "youracclaim.com",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.youracclaim.com/badges/42e0283e-a14d-4924-b1b5-484e6f8cb591/linked_in_profile"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Using Python for Automation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1743638400&v=beta&t=dQ3iJKXU9Tn86QDwbL7m3IdSuTER8xuoyJYVrOmc81Q",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1743638400&v=beta&t=PpzLLb8UR5KaHsJCclVcQVtQKhHvcdgnem-bdhQwds8",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1743638400&v=beta&t=R2VBRrsu4lEbuRhORK6YUqUQc1IN5Nj_1btWMloPWF4",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "ttwSQCPjRSW+FwjySa96cA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/4c2defdf29f33b5d179052e5fe1ebc50cf576d5cdba6f163e4e6f4bc62b69cb0"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Advanced Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1743638400&v=beta&t=dQ3iJKXU9Tn86QDwbL7m3IdSuTER8xuoyJYVrOmc81Q",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1743638400&v=beta&t=PpzLLb8UR5KaHsJCclVcQVtQKhHvcdgnem-bdhQwds8",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1743638400&v=beta&t=R2VBRrsu4lEbuRhORK6YUqUQc1IN5Nj_1btWMloPWF4",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "pAJPArSoQEqJvV+CWpx4nw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/77a632f5c00d42be0d3a97039d8c52c590e9fb95a44221bada46dc6a2723747c"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Learning Amazon Web Services (AWS) for Developers",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1743638400&v=beta&t=dQ3iJKXU9Tn86QDwbL7m3IdSuTER8xuoyJYVrOmc81Q",
+                                    "expiresAt": 1743638400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1743638400&v=beta&t=PpzLLb8UR5KaHsJCclVcQVtQKhHvcdgnem-bdhQwds8",
+                                    "expiresAt": 1743638400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1743638400&v=beta&t=R2VBRrsu4lEbuRhORK6YUqUQc1IN5Nj_1btWMloPWF4",
+                                    "expiresAt": 1743638400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "2sT/A2pcSV6s1v6FsPS4lg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/1c46d2941e5d81a2ee984cbeb66aff7f1c8a32ff0b19bbfcf9028d03b7227274"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [],
+        "skills": [
+            {
+                "name": "Databases"
+            },
+            {
+                "name": "Object-Oriented Programming (OOP)"
+            },
+            {
+                "name": "Software Development"
+            },
+            {
+                "name": "Communication"
+            }
+        ],
+        "urn_id": "ACoAACTYi44Bl7WNAnSycSLmFlm5HcPb2knTJvI",
+        "contact_info": {
+            "email_address": "muhammadnouman2240@gmail.com",
+            "websites": [],
+            "twitter": [],
+            "birthdate": null,
+            "ims": null,
+            "phone_numbers": []
+        }
+    }
+]

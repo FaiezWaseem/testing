@@ -1,14 +1,13 @@
 from selenium import webdriver
 from time import sleep
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
 import csv
-from selenium.common.exceptions import NoSuchElementException
 import json
-from datetime import datetime, timedelta
-from dateutil.relativedelta import relativedelta
+from requests.cookies import RequestsCookieJar, create_cookie
+from linkedin_api.cookie_repository import CookieRepository
+from linkedin_api import Linkedin
+from urllib.parse import urlparse, parse_qs
 
-from linkedin_scraper import Person, actions
 import os
 
 class LinkedInProfileScraper:
@@ -70,84 +69,22 @@ class LinkedInProfileScraper:
     def scrape_profiles(self):
         """Scrape profile data from search results"""
         profiles = self.driver.execute_script("return document?.querySelector('[role=\"list\"]')?.children")
-        profiles_data = []
-        
         print(f'{len(profiles)} profiles found')
-        
+        sleep(6)
+        profile_links = []
+
         for profile in profiles:
             try:
                 print(profile)
                 # Get profile URL
                 profile_url = self.driver.execute_script("return arguments[0].querySelector('a').href", profile)
-                
                 print(profile_url)
-                
-                
-                person = Person(profile_url, driver=self.driver)
-                
-                print(person)
-                
-                with open('profile_log.txt', 'a', encoding='utf-8') as log_file:
-                 log_file.write(json.dumps(person, ensure_ascii=False, indent=4) + '\n')
-                
-                # Visit profile
-                # self.driver.get(profile_url)
-                # sleep(5)  # Wait for page to load
-                
-                # # Basic Info
-                # profile_image = self.driver.execute_script("""
-                #     return document.querySelector('img.pv-top-card-profile-picture__image')?.src 
-                #     || document.querySelector('.presence-entity__image')?.src 
-                #     || 'Profile image not found';
-                # """)
-                
-                # name = self.driver.execute_script("""
-                #     return document.querySelector('h1.text-heading-xlarge')?.textContent.trim() 
-                #     || 'Name not found';
-                # """)
-                
-                # title = self.driver.execute_script("""
-                #     return document.querySelector('div.text-body-medium')?.textContent.trim() 
-                #     || 'Title not found';
-                # """)
-                
-                # location = self.driver.execute_script("""
-                #     return document.querySelector('.pv-text-details__left-panel .text-body-small')?.textContent.trim() 
-                #     || 'Location not found';
-                # """)
-                
-                # # About Section
-                # about = self.driver.execute_script("""
-                #     return document.querySelector('div.pv-shared-text-with-see-more > div > span')?.textContent.trim() 
-                #     || 'About not found';
-                # """)
-                
-                # # Skills Section - only grab visible skills
-                # skills = self.driver.execute_script("""
-                #     const skillElements = document.querySelectorAll('.skill-category-entity__name');
-                #     return Array.from(skillElements, el => el.textContent.trim());
-                # """)
-                
-                # profile_data = {
-                #     'name': name,
-                #     'profile_url': profile_url,
-                #     'profile_image': profile_image,
-                #     'title': title,
-                #     'location': location,
-                #     'about': about,
-                #     'skills': skills if skills else []
-                # }
-                
-                # profiles_data.append(profile_data)
-                
-                # Log the scraped profile
-                print(f"Scraped profile: {name}")
-                
+                profile_links.append(profile_url)
             except Exception as e:
                 print(f"Error processing profile: {e}")
                 continue
         
-        return profiles_data
+        return profile_links
 
     def save_to_csv(self, data, filename):
         headers = [
@@ -170,109 +107,96 @@ class LinkedInProfileScraper:
 
     def teardown(self):
         self.driver.quit()
+        
+    def getCookies(self , path):
+        cookies = json.load(open(path))  
+        cookie_jar = RequestsCookieJar()
+        for cookie_data in cookies:
+         cookie = create_cookie(
+            domain=cookie_data["domain"],
+            name=cookie_data["name"],
+            value=cookie_data["value"],
+            path=cookie_data["path"],
+            secure=cookie_data["secure"],
+            expires=cookie_data.get("expirationDate", None),
+            rest={
+             "HttpOnly": cookie_data.get("httpOnly", False),
+             "SameSite": cookie_data.get("sameSite", "unspecified"),
+             "HostOnly": cookie_data.get("hostOnly", False),
+            }
+         )
+         cookie_jar.set_cookie(cookie)
+        return cookie_jar
+    
+    def get_linkedin_username(self ,url: str) -> str:
+        parsed_url = urlparse(url)
+        path_segments = parsed_url.path.strip('/').split('/')
+        
+        if 'in' in path_segments:
+            index = path_segments.index('in')
+            if index + 1 < len(path_segments):
+                return path_segments[index + 1].split('?')[0]
+        
+        query_params = parse_qs(parsed_url.query)
+        mini_profile_urn = query_params.get('miniProfileUrn', [None])[0]
+        
+        if mini_profile_urn:
+            return mini_profile_urn.split(':')[-1]
+        
+        return "Username not found"
 
-    def run(self, keyword):
+    def run(self, keyword , cookiePath):
         url = self.construct_linkedin_search_url(keyword)
-        print(url)
+        cookies =  self.getCookies(cookiePath)
+        api = Linkedin(username = '', password = '', cookies=cookies)
         self.driver.get(url)
         sleep(5) 
         self.scroll_to_load_profiles()
-        profiles_data = self.scrape_profiles()
+        profiles_Links = self.scrape_profiles()
         max = self.limit
         start = 0
         
-        print(f'----------PROFILE FOUND ({len(profiles_data)})')
+        print(f'----------PROFILE FOUND ({len(profiles_Links)})')
         
+        profiles_data =[]
+        
+        self.teardown()
         # Now visit each profile and get additional details
-        # for profile in profiles_data:
-        #     if start >= max:
-        #         break
-        #     start += 1
-        #     print(f"Scraping profile {start} of {max}")
-        #     print(profile['profile_url'])
-        #     self.driver.get(profile['profile_url'])
-        #     sleep(5)
-            
-        #     try:
-        #         # Scrape company LinkedIn URL
-        #         elements = self.driver.execute_script("return document.querySelectorAll('[data-view-name=\"job-details-about-company-name-link\"]')")
-        #         if elements and len(elements) > 0:
-        #             company_link = elements[0].get_attribute('href')
-        #         else:
-        #             company_link = "Company LinkedIn URL not found"
-        #     except NoSuchElementException:
-        #         company_link = "Company LinkedIn URL not found"
-            
-        #     try:
-        #         # Scrape company about section
-        #         company_about = self.driver.execute_script(
-        #             "return document.querySelectorAll('.jobs-company__company-description')[0]?.textContent || 'Description not found';"
-        #         )
-        #     except Exception as e:
-        #         print(f"An error occurred: {e}")
-        #         company_about = "Description not found"
-            
-        #     try:
-        #         # Scrape job description
-        #         elements = self.driver.execute_script("return document.querySelectorAll('.jobs-description-content__text--stretch')")
-        #         if elements and len(elements) > 0:
-        #             job_description = elements[0].text
-        #         else:
-        #             job_description = "Job description not found"
-        #     except NoSuchElementException:
-        #         job_description = "Job description not found"
-            
-        #     try:
-        #         # Scrape post date
-        #         post_date_str = self.driver.execute_script(
-        #             "return document.querySelectorAll('.job-details-jobs-unified-top-card__primary-description-container')[0].childNodes[2].childNodes[3].textContent"
-        #         )
+        for profile in profiles_Links:
+            try:
+                if start >= max:
+                    break
+                start += 1
+                print(f"Scraping profile {start} of {max}")
+                username = self.get_linkedin_username(profile)
+                if username is None:
+                    continue
+                currentProfile = api.get_profile(username)
+                contact_info = api.get_profile_contact_info(username)
+                print(contact_info)
+                print(f'linedin_url=https://www.linkedin.com/in/{username}')
+                print(f'username={username}')
+                print(f'name={currentProfile["firstName"]} {currentProfile["lastName"]}')
+                print(f'title={currentProfile["headline"]}')
+                print(f'location={currentProfile["locationName"]}')
+                print(f'skills={contact_info["email_address"]}')
                 
-        #         # Convert the post_date string to a datetime object
-        #         post_date = datetime.now()  # Default to now if parsing fails
-        #         try:
-        #             if "hour" in post_date_str:
-        #                 hours = int(post_date_str.split()[0])
-        #                 post_date -= timedelta(hours=hours)
-        #             elif "day" in post_date_str:
-        #                 days = int(post_date_str.split()[0])
-        #                 post_date -= timedelta(days=days)
-        #             elif "month" in post_date_str:
-        #                 months = int(post_date_str.split()[0])
-        #                 post_date -= relativedelta(months=months)
-        #             elif "year" in post_date_str:
-        #                 years = int(post_date_str.split()[0])
-        #                 post_date -= relativedelta(years=years)
-        #         except Exception as e:
-        #             print(f"Error parsing date: {e}")
-        #     except Exception as e:
-        #         print(f"An error occurred: {e}") 
-        #         post_date = "Post date not found"
-            
-            
-        #     print(company_link)
-        #     print(company_about)
-        #     print(job_description)
-        #     print(post_date)
-            
-        #     # Update profile data with new details
-        #     profile.update({
-        #         'company_link': company_link,
-        #         'company_about': company_about,
-        #         'description': job_description,
-        #         'post_date': post_date.isoformat() if isinstance(post_date, datetime) else post_date
-        #     })
-            
-        #     # Write the updated profile to a log file
-        #     with open('profile_log.txt', 'a', encoding='utf-8') as log_file:
-        #         log_file.write(json.dumps(profile, ensure_ascii=False, indent=4) + '\n')
-            
-        #     print(profile)
+                currentProfile["contact_info"] = contact_info
+                
+                print('----------------------------------------------------------')
+
+                profiles_data.append(currentProfile)
+                sleep(3)
+
+                with open('profile_log.txt', 'a', encoding='utf-8') as log_file:
+                    log_file.write(json.dumps(contact_info, ensure_ascii=False, indent=4) + '\n')
+            except Exception as e:
+                print(f"Error scraping profile {profile}: {str(e)}")
+                continue
         
-        # self.save_to_json(profiles_data, 'linkedin_profiles.json')  # Save to JSON
-        # self.save_to_csv(profiles_data, 'linkedin_profiles.csv')
-        # self.teardown()
+        self.save_to_json(profiles_data, f'./users/{keyword}_{self.location}_linkedin_profiles.json')
         return profiles_data
+
 
 if __name__ == "__main__":
     cookie = os.environ.get('li_at')

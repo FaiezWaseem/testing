@@ -1,6 +1,13 @@
 import os
+from time import sleep
+
+
 from jobScrapper import LinkedInJobScraper
 from candidateScrapper import LinkedInProfileScraper
+from company import LinkedInCompanyDetails
+
+
+from config import LI_AT
 
 
 
@@ -13,7 +20,8 @@ print("4. Exit")
 print("Please Select an option above : ")
 
 option = input()
-cookie = os.environ.get('li_at')
+cookie = LI_AT
+
 # Switch Case To Handle Options
 match option:
     case "1":
@@ -40,6 +48,9 @@ match option:
         # Add jobs scraping logic here
     case "2":
         print("Starting LinkedIn Profiles Scraper...")
+        
+        
+        
         location  = input("Enter the location: ")
         keyword = input("Enter the keyword: ex (Python+Developer) :")
         limit = int(input("Enter the limit: "))
@@ -50,7 +61,8 @@ match option:
             limit=limit
         )
         data = scraper.run(
-        keyword="Python+Developer"
+        keyword=keyword,
+        cookiePath='./cookies.json'
         )
         print(data)
         print(f'{len(data)} Developer Profile Scrapped')
@@ -61,6 +73,14 @@ match option:
         # Add profiles scraping logic here
     case "3":
         print("Starting LinkedIn Companies Scraper...")
+        company_name = input("Enter the company name: ")
+        print('Scrapper is Working...')
+        scraper = LinkedInCompanyDetails(
+            url=company_name,
+            cookiesPath='./cookies.json'
+        )
+        data = scraper.getCompanyJSON()
+        print(data)
         # Add companies scraping logic here
     case "4":
         print("Exiting...")
