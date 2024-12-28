@@ -41,6 +41,10 @@ LI_AT=""
 description: install browser extension called "EditThisCookie" and export cookies to json file
 from your linkedin account 
 
+8. Run the Script:  
+```
+python main.py
+```
 
 ## Caution 
 1. Don't use this script for mass spamming or sending unsolicited messages to users.
