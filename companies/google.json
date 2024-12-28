@@ -1,0 +1,3134 @@
+{
+    "staffingCompany": false,
+    "companyIndustries": [
+        {
+            "localizedName": "Software Development",
+            "entityUrn": "urn:li:fs_industry:4"
+        }
+    ],
+    "callToAction": {
+        "callToActionType": "VIEW_WEBSITE",
+        "visible": true,
+        "callToActionMessage": {
+            "textDirection": "USER_LOCALE",
+            "text": "Visit website"
+        },
+        "url": "https://goo.gle/3DLEokh"
+    },
+    "staffCount": 303012,
+    "adsRule": "REDUCED",
+    "companyEmployeesSearchPageUrl": "https://www.linkedin.com/vsearch/p?f_CC=1441",
+    "viewerFollowingJobsUpdates": false,
+    "staffCountRange": {
+        "start": 10001
+    },
+    "permissions": {
+        "landingPageAdmin": false,
+        "admin": false,
+        "adAccountHolder": false
+    },
+    "logo": {
+        "image": {
+            "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631311446380?e=1743638400&v=beta&t=y3hNPrQvEq9O4b0P3L8e6P5iVJEIOqqjwYbKbDnn86c",
+                        "expiresAt": 1743638400000,
+                        "height": 200
+                    },
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631311446380?e=1743638400&v=beta&t=ofMfC3AGtZqh9X5j_-NFKlxU1p_jBQPVv1IhF-cw49A",
+                        "expiresAt": 1743638400000,
+                        "height": 100
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631311446380?e=1743638400&v=beta&t=EZ-qIV9msmPpUEFmddmX60XNv3nu521MGt3zcH-Ylkw",
+                        "expiresAt": 1743638400000,
+                        "height": 400
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_"
+            }
+        },
+        "type": "SQUARE_LOGO"
+    },
+    "claimable": false,
+    "affiliatedCompaniesResolutionResults": {
+        "urn:li:fs_normalized_company:16140": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:16140",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:16140",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 2194985
+            },
+            "description": "YouTube is a team-oriented, creative workplace where every single employee has a voice in the choices we make and the features we implement. We work together in small teams to design, develop, and roll out key features and products in very short time frames. Which means something you write today could be seen by millions of viewers tomorrow. And even though we\u2019re a part of Google and enjoy all of the corporate perks, it still feels like you\u2019re working at a startup.\n\nYouTube is headquartered in San Bruno, California, 12 miles south of San Francisco. We also have many job openings in Mountain View, and across the globe",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/youtube",
+            "entityUrn": "urn:li:fs_normalized_company:16140",
+            "name": "YouTube",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631053379845/youtube_logo?e=1743638400&v=beta&t=btLZuxmoHCw-5NsfZEy-kvVSgjSr69ma8it0HKevqAc",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631053379845/youtube_logo?e=1743638400&v=beta&t=jNbVjudXpIhdclOOZ0NMe-yyFc1Fcydhru18sAnLIOs",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631053379845/youtube_logo?e=1743638400&v=beta&t=bDlh1Srn5dL4nVTUUBIqr-dvlrYUzWifUGmEZYh_weo",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEfoRsyU4yUzg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "youtube"
+        },
+        "urn:li:fs_normalized_company:89982912": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:89982912",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:89982912",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 8538
+            },
+            "description": "Mineral, an Alphabet company, is working to make the world\u2019s food system more productive and more sustainable. Since 2017, Mineral has been working to harness the power of artificial intelligence (AI), machine learning (ML), and perception technology to unlock more sustainable ways to feed humankind while protecting the planet. Many of the agriculture and food industry\u2019s most influential companies and research institutes already use Mineral technology to more deeply understand plant physiology, discover more resilient crops, increase production, and improve the bottom line for agribusinesses and farmers alike. Together with our partners, we're hopeful that these platforms and tools will - over time - drive a deeper understanding of the complex interactions of plant genes, the environment, and farm management practices. ",
+            "companyIndustries": [
+                {
+                    "localizedName": "Oil and Gas",
+                    "entityUrn": "urn:li:fs_industry:57"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/mineral-ai",
+            "entityUrn": "urn:li:fs_normalized_company:89982912",
+            "name": "Mineral.ai",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1676059443081/mineral_ai_logo?e=1743638400&v=beta&t=pt3-BK8LhC_0TroEEdGlZx3NpbbehUVYm8QmQ8qOgys",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1676059443081/mineral_ai_logo?e=1743638400&v=beta&t=7NdDBLk6ML0k4T9SVB8y17TXzWmHwxza1AeCXB8x16g",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1676059443081/mineral_ai_logo?e=1743638400&v=beta&t=VmZKf1Xg7vDceekoETuh--mFCzM0SE78k4YchF1aIk8",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQE-WH8Szc-oSg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "mineral-ai"
+        },
+        "urn:li:fs_normalized_company:10440912": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:10440912",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:10440912",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 162692
+            },
+            "description": "X is a moonshot factory. Our mission is to invent and launch breakthrough technologies that we hope could make the world a radically better place. \n",
+            "companyIndustries": [
+                {
+                    "localizedName": "Research Services",
+                    "entityUrn": "urn:li:fs_industry:70"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/x",
+            "entityUrn": "urn:li:fs_normalized_company:10440912",
+            "name": "X, the moonshot factory",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630568239950/x_logo?e=1743638400&v=beta&t=1UsFWhYXYjLn3Rg2rah2lS-ZTyq3eTxRUTn0WEOUShM",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630568239950/x_logo?e=1743638400&v=beta&t=zBFrJVKDn_4602qfCdalMq5PWxyqLCDnWi3xQ0smdEw",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630568239950/x_logo?e=1743638400&v=beta&t=DSOAx1EeyJAfniNdPHvn5fkZcA8cQNK-7oRtTvLFpH0",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C510BAQF5NEs0NbbsHQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": true,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "x"
+        },
+        "urn:li:fs_normalized_company:10337946": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:10337946",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:10337946",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 25209
+            },
+            "description": "Photomath is a fast-growing EdTech company whose mobile app is the #1 app in the world to learn math. Powered by advanced machine learning technology, the app instantly scans, accurately solves, and intuitively explains printed and handwritten math problems to users through step-by-step explanations.\n \nWith over 300 million downloads globally, Photomath is one of the most popular educational apps of all time, consistently topping the Apple App Store & Google Play Store. \n \nToday, we employ over 200 employees and have offices in Zagreb and San Mateo, California. We are a team of people with diverse backgrounds, experiences and skills, united by passion for technology and innovation. We believe that math is an increasingly crucial skill, particularly as problem-solving and quantitative analysis become prerequisites for many occupations.\n \nWe are constantly expanding what Photomath can do and the types and quality of our content - we have so much more ahead of us and we need your help to get there. Join us in our mission to revolutionize learning math and help students across the globe gain math superpowers!",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/photomath",
+            "entityUrn": "urn:li:fs_normalized_company:10337946",
+            "name": "Photomath",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630569870162/photomath_logo?e=1743638400&v=beta&t=4hO8j2BnkR_5Wv4ldStX6rK3r_2PpneRe-tQVstFCHo",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630569870162/photomath_logo?e=1743638400&v=beta&t=GJcnLMSH6VKMoGjLaCu4vNcFsE0PF1mivokuOuT9Bzc",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630569870162/photomath_logo?e=1743638400&v=beta&t=Kt0tRwyFhhZZE7owZriPVRKQYN2p5dNaktgSP_o_VHc",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHVg8g3gXxCsA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "photomath"
+        },
+        "urn:li:fs_normalized_company:17876832": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:17876832",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:17876832",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 40214
+            },
+            "description": "CapitalG is Alphabet's independent growth fund. We invest capital to help remarkable entrepreneurs and leading transformational companies accelerate the growth of their businesses.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Venture Capital and Private Equity Principals",
+                    "entityUrn": "urn:li:fs_industry:106"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/capitalg",
+            "entityUrn": "urn:li:fs_normalized_company:17876832",
+            "name": "CapitalG",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630652094195/capitalg_logo?e=1743638400&v=beta&t=qeKt1pRkz96FBzh8ceJ7lExSnamvByv6gVk0pDU87X8",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630652094196/capitalg_logo?e=1743638400&v=beta&t=mVhyyxBMZRJwovazVa6uo6yVpFW7qQXGjkihPiPWlEw",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630652094196/capitalg_logo?e=1743638400&v=beta&t=seRs_fq7GTj1snmo8JpTT9sT4EvDUsv7Tf1X8Aqt0IM",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQG_2ueBNyD9mw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "capitalg"
+        },
+        "urn:li:fs_normalized_company:791962": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:791962",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:791962",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 18705
+            },
+            "description": "Adometry was acquired by Google in May 2014 and the technology is the foundation of Google Attribution 360.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Advertising Services",
+                    "entityUrn": "urn:li:fs_industry:80"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/adometry",
+            "entityUrn": "urn:li:fs_normalized_company:791962",
+            "name": "Adometry (acquired by Google)",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631345813563?e=1743638400&v=beta&t=s1_IdrP9ai8bgbtxZnzWowBpDOOhbWIsAlDS1OlG_O0",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631345813563?e=1743638400&v=beta&t=cMZiQaajM1toM2t_3oBF4mznhzBaqiCPXPZ7kcpDBtY",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631345813563?e=1743638400&v=beta&t=zLgHFyYGMwDXaF4Uc39RMPYYk7BIoswz6JT4Kfr27dE",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQG_VLbxyJcP8A/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "adometry"
+        }
+    },
+    "specialities": [
+        "search",
+        "ads",
+        "mobile",
+        "android",
+        "online video",
+        "apps",
+        "machine learning",
+        "virtual reality",
+        "cloud",
+        "hardware",
+        "artificial intelligence",
+        "youtube",
+        "software"
+    ],
+    "confirmedLocations": [
+        {
+            "country": "US",
+            "geographicArea": "CA",
+            "city": "Mountain View",
+            "postalCode": "94043",
+            "streetAddressOptOut": false,
+            "headquarter": true,
+            "line1": "1600 Amphitheatre Parkway"
+        },
+        {
+            "country": "US",
+            "geographicArea": "NY",
+            "city": "New York",
+            "postalCode": "10011",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "111 8th Ave"
+        },
+        {
+            "country": "NL",
+            "geographicArea": "North Holland",
+            "city": "Amsterdam",
+            "postalCode": "1082 MD",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Claude Debussylaan 34"
+        },
+        {
+            "country": "BR",
+            "geographicArea": "SP",
+            "city": "Sao Paulo",
+            "postalCode": "04538-133",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Avenida Brigadeiro Faria Lima, 3477"
+        },
+        {
+            "country": "CA",
+            "geographicArea": "ON",
+            "city": "Kitchener",
+            "postalCode": "N2H 5G5",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "51 Breithaupt St"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "IE",
+            "geographicArea": "County Dublin",
+            "city": "Dublin",
+            "headquarter": false,
+            "line1": "Barrow Street"
+        },
+        {
+            "country": "IN",
+            "geographicArea": "Karnataka",
+            "city": "Bengaluru",
+            "postalCode": "560016",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Old Madras Road"
+        },
+        {
+            "country": "US",
+            "geographicArea": "CO",
+            "city": "Boulder",
+            "postalCode": "80302",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "2590 Pearl St"
+        },
+        {
+            "country": "US",
+            "geographicArea": "WA",
+            "city": "Seattle",
+            "postalCode": "98103",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "601 N 34th St"
+        },
+        {
+            "country": "AU",
+            "geographicArea": "NSW",
+            "city": "Sydney",
+            "postalCode": "2009",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "48 Pirrama Rd"
+        },
+        {
+            "country": "US",
+            "geographicArea": "CA",
+            "city": "Irvine",
+            "postalCode": "92612",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "19510 Jamboree Rd"
+        },
+        {
+            "country": "US",
+            "geographicArea": "IL",
+            "city": "Chicago",
+            "postalCode": "60607",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "320 N Morgan St"
+        },
+        {
+            "country": "IN",
+            "geographicArea": "Maharashtra",
+            "city": "Mumbai",
+            "postalCode": "400051",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "3 Bandra Kurla Complex Road"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "PH",
+            "geographicArea": "National Capital Region",
+            "city": "Taguig City",
+            "headquarter": false,
+            "line1": "5th Ave"
+        },
+        {
+            "country": "SG",
+            "geographicArea": "Singapore",
+            "city": "Singapore",
+            "postalCode": "118484",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "3 Pasir Panjang Rd"
+        },
+        {
+            "country": "IN",
+            "geographicArea": "TS",
+            "city": "Hyderabad",
+            "postalCode": "500084",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "13"
+        },
+        {
+            "country": "AU",
+            "geographicArea": "VIC",
+            "city": "Melbourne",
+            "postalCode": "3000",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "90 Collins St"
+        },
+        {
+            "country": "US",
+            "geographicArea": "CA",
+            "city": "San Bruno",
+            "postalCode": "94066",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "901 Cherry Ave"
+        },
+        {
+            "country": "ES",
+            "geographicArea": "Community of Madrid",
+            "city": "Madrid",
+            "postalCode": "28046",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Plaza Pablo Ruiz Picasso"
+        },
+        {
+            "country": "US",
+            "geographicArea": "DC",
+            "city": "Washington",
+            "postalCode": "20001",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "25 Massachusetts Ave NW"
+        },
+        {
+            "country": "IN",
+            "geographicArea": "HR",
+            "city": "Gurugram",
+            "postalCode": "122001",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "15"
+        },
+        {
+            "country": "CO",
+            "geographicArea": "Bogota, D.C.",
+            "city": "Bogota",
+            "postalCode": "110221",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Carrera 11A 94-45"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "HK",
+            "geographicArea": "Hong Kong",
+            "city": "Wan Chai",
+            "headquarter": false,
+            "line1": "2 Matheson St"
+        },
+        {
+            "country": "US",
+            "geographicArea": "VA",
+            "city": "Reston",
+            "postalCode": "20190",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "1875 Explorer St"
+        },
+        {
+            "country": "CA",
+            "geographicArea": "ON",
+            "city": "Toronto",
+            "postalCode": "M5H 2G4",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "111 Richmond St W"
+        },
+        {
+            "country": "US",
+            "geographicArea": "CA",
+            "city": "San Francisco",
+            "postalCode": "94105",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "345 Spear St"
+        },
+        {
+            "country": "US",
+            "geographicArea": "MA",
+            "city": "Cambridge",
+            "postalCode": "02142",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "355 Main St"
+        },
+        {
+            "country": "IT",
+            "geographicArea": "Lomb.",
+            "city": "Milan",
+            "postalCode": "20124",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Via Federico Confalonieri, 4"
+        },
+        {
+            "country": "GB",
+            "geographicArea": "England",
+            "city": "London",
+            "postalCode": "WC2H 8AG",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "St Giles High Street"
+        },
+        {
+            "country": "US",
+            "geographicArea": "TX",
+            "city": "Austin",
+            "postalCode": "78759",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "9606 N Mopac Expy"
+        },
+        {
+            "country": "US",
+            "geographicArea": "CA",
+            "city": "Los Angeles",
+            "postalCode": "90291",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "340 Main St"
+        },
+        {
+            "country": "ES",
+            "geographicArea": "Community of Madrid",
+            "city": "Madrid",
+            "postalCode": "28020",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Plaza Pablo Ruiz Picasso"
+        },
+        {
+            "country": "US",
+            "geographicArea": "MI",
+            "city": "Ann Arbor",
+            "postalCode": "48105",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "2300 Traverwood Dr"
+        },
+        {
+            "country": "CL",
+            "geographicArea": "Santiago Metropolitan",
+            "city": "Las Condes",
+            "postalCode": "7550000",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Avenida Costanera Sur"
+        },
+        {
+            "country": "US",
+            "geographicArea": "GA",
+            "city": "Atlanta",
+            "postalCode": "30309",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "10 10th St NE"
+        },
+        {
+            "country": "PL",
+            "geographicArea": "MA",
+            "city": "Warsaw",
+            "postalCode": "00-125",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "ulica Emilii Plater 53"
+        },
+        {
+            "country": "IN",
+            "geographicArea": "Karnataka",
+            "city": "Bengaluru",
+            "postalCode": "560016",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "3 Swamy Vivekananda Road"
+        },
+        {
+            "country": "US",
+            "geographicArea": "WA",
+            "city": "Kirkland",
+            "postalCode": "98033",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "777 6th St S"
+        },
+        {
+            "country": "DE",
+            "geographicArea": "BY",
+            "city": "Munich",
+            "postalCode": "80636",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Erika-Mann-Strasse 33"
+        },
+        {
+            "country": "MX",
+            "geographicArea": "CDMX",
+            "city": "Miguel Hidalgo",
+            "postalCode": "11000",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Montes Urales"
+        },
+        {
+            "country": "AR",
+            "geographicArea": "Buenos Aires Autonomous City",
+            "city": "Buenos Aires City",
+            "postalCode": "1107",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Avenida Alicia Moreau de Justo 350"
+        },
+        {
+            "country": "FR",
+            "geographicArea": "IdF",
+            "city": "Paris",
+            "postalCode": "75009",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "8 Rue de Londres"
+        },
+        {
+            "country": "IL",
+            "geographicArea": "Tel Aviv",
+            "city": "Tel Aviv-Yafo",
+            "postalCode": "67891",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Yigal Allon 98"
+        },
+        {
+            "country": "DE",
+            "geographicArea": "BE",
+            "city": "Berlin",
+            "postalCode": "10117",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Unter den Linden 14"
+        },
+        {
+            "country": "DE",
+            "geographicArea": "HH",
+            "city": "Hamburg",
+            "postalCode": "20354",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "ABC-Strasse 19"
+        },
+        {
+            "country": "US",
+            "geographicArea": "TX",
+            "city": "Frisco",
+            "postalCode": "75034",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "6175 Main St"
+        },
+        {
+            "country": "CH",
+            "geographicArea": "ZH",
+            "city": "Zurich",
+            "postalCode": "8002",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Brandschenkestrasse 110"
+        },
+        {
+            "country": "SE",
+            "geographicArea": "Stockholm County",
+            "city": "Stockholm",
+            "postalCode": "111 22",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Kungsbron 2"
+        }
+    ],
+    "followingInfo": {
+        "entityUrn": "urn:li:fs_followingInfo:urn:li:company:1441",
+        "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:1441",
+        "following": false,
+        "followingType": "DEFAULT",
+        "followerCount": 35302316
+    },
+    "viewerEmployee": false,
+    "affiliatedCompaniesWithEmployeesRollup": [
+        "urn:li:fs_normalized_company:17876832",
+        "urn:li:fs_normalized_company:791962",
+        "urn:li:fs_normalized_company:2374003",
+        "urn:li:fs_normalized_company:18950635",
+        "urn:li:fs_normalized_company:16140",
+        "urn:li:fs_normalized_company:10440912"
+    ],
+    "lcpTreatment": true,
+    "affiliatedCompaniesWithJobsRollup": [
+        "urn:li:fs_normalized_company:17876832",
+        "urn:li:fs_normalized_company:791962",
+        "urn:li:fs_normalized_company:2374003",
+        "urn:li:fs_normalized_company:18950635",
+        "urn:li:fs_normalized_company:16140",
+        "urn:li:fs_normalized_company:89982912",
+        "urn:li:fs_normalized_company:10440912"
+    ],
+    "associatedHashtagsResolutionResults": {
+        "urn:li:fs_contentTopicData:urn:li:hashtag:google": {
+            "feedTopic": {
+                "topic": {
+                    "trending": false,
+                    "name": "#google",
+                    "useCase": "HASHTAG_FEED",
+                    "recommendationTrackingId": "Q4Pk\u008cs@\u00cf\u00bf\u0010\u0002\u0087\u00cbs\u00f8f",
+                    "backendUrn": "urn:li:hashtag:google"
+                },
+                "tracking": {
+                    "trackingId": "UTRQa4xzQM+/EAKHy3P4Zg=="
+                },
+                "entityUrn": "urn:li:fs_feedTopic:(urn:li:hashtag:google,HASHTAG_FEED)"
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebContentTopicDataCard",
+            "entityUrn": "urn:li:fs_contentTopicData:urn:li:hashtag:google",
+            "followAction": {
+                "followingInfo": {
+                    "followingType": "DEFAULT",
+                    "entityUrn": "urn:li:fs_followingInfo:urn:li:hashtag:google",
+                    "followerCount": 362051,
+                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:(google,urn:li:activity:-)",
+                    "following": false,
+                    "trackingUrn": "urn:li:hashtag:google"
+                },
+                "unfollowTrackingActionType": "unfollowTopic",
+                "followTrackingActionType": "followTopic",
+                "type": "FOLLOW_TOGGLE",
+                "trackingActionType": "followTopic"
+            }
+        }
+    },
+    "name": "Google",
+    "$recipeType": "com.linkedin.voyager.deco.organization.web.WebFullCompanyMain",
+    "fundingData": {
+        "fundingRoundListCrunchbaseUrl": "https://www.crunchbase.com/organization/google/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings",
+        "lastFundingRound": {
+            "investorsCrunchbaseUrl": "https://www.crunchbase.com/funding_round/google-convertible-note--6c4715f9?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_investors",
+            "leadInvestors": [
+                {
+                    "name": {
+                        "text": "Sequoia Capital"
+                    },
+                    "investorCrunchbaseUrl": "https://www.crunchbase.com/organization/sequoia-capital?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=investor",
+                    "image": {
+                        "attributes": [
+                            {
+                                "sourceType": "URL",
+                                "imageUrl": "https://media.licdn.com/dms/image/sync/v2/D4D38AQFTbW9ThA5fOw/crunchbase_investor_logo_100/crunchbase_investor_logo_100/0/1734632662759?e=1735884000&v=beta&t=kNGP6eew_YcxWwUrvoRAIrPfbNxd7d7jtijQNzhqMVQ"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": {
+                        "text": "Kleiner Perkins"
+                    },
+                    "investorCrunchbaseUrl": "https://www.crunchbase.com/organization/kleiner-perkins-caufield-byers?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=investor",
+                    "image": {
+                        "attributes": [
+                            {
+                                "sourceType": "URL",
+                                "imageUrl": "https://media.licdn.com/dms/image/sync/v2/D4D38AQFcDueDDWFLRw/crunchbase_investor_logo_100/crunchbase_investor_logo_100/0/1734632668712?e=1735884000&v=beta&t=GyvweUQU1D5WM3E0SXv-btZv8Jt-2hYyfMW0YRmndRQ"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "fundingRoundCrunchbaseUrl": "https://www.crunchbase.com/funding_round/google-convertible-note--6c4715f9?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=last_funding",
+            "fundingType": "CONVERTIBLE_NOTE",
+            "moneyRaised": {
+                "currencyCode": "USD",
+                "amount": "25000000"
+            },
+            "numOtherInvestors": 7,
+            "announcedOn": {
+                "month": 6,
+                "day": 7,
+                "year": 1999
+            }
+        },
+        "companyCrunchbaseUrl": "https://www.crunchbase.com/organization/google?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta",
+        "numFundingRounds": 3,
+        "updatedAt": 1726585918
+    },
+    "overviewPhoto": {
+        "com.linkedin.voyager.common.MediaProcessorImage": {
+            "id": "/AAEAAQAAAAAAAAl6AAAAJDAwMDBlMTIwLTQ1ODEtNDcyNC04NjlhLWViZjZlMTlmOWVkZA.png"
+        }
+    },
+    "description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.\n\nCheck out our career opportunities at goo.gle/3DLEokh",
+    "entityUrn": "urn:li:fs_normalized_company:1441",
+    "headquarter": {
+        "country": "US",
+        "geographicArea": "CA",
+        "city": "Mountain View",
+        "postalCode": "94043",
+        "line1": "1600 Amphitheatre Parkway"
+    },
+    "showcasePagesResolutionResults": {
+        "urn:li:fs_normalized_company:3648281": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3648281",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3648281",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 2655282
+            },
+            "description": "Google Cloud accelerates every organization\u2019s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google\u2019s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-cloud/",
+            "entityUrn": "urn:li:fs_normalized_company:3648281",
+            "name": "Google Cloud",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630644546845/google_cloud_logo?e=1743638400&v=beta&t=wlXpBPh1js0HHaVMELUx-aqDB-Li-AC-sJbVu7K7QH8",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630644546845/google_cloud_logo?e=1743638400&v=beta&t=MOeTUqLWgQJibfxq6LN8HefaFXnOi0fLG1bZryxLpkw",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630644546845/google_cloud_logo?e=1743638400&v=beta&t=hWcfjwQ_AaXBBq8gfpqwEtKu4si-1vvCAzN_j2Evemw",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFIFLR7jxm2lg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-cloud"
+        },
+        "urn:li:fs_normalized_company:82540973": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:82540973",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:82540973",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 77463
+            },
+            "description": "Google\u2019s UI toolkit to build apps for mobile, web, and desktop from a single codebase.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/flutterdevofficial/",
+            "entityUrn": "urn:li:fs_normalized_company:82540973",
+            "name": "Flutter Dev",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1660157151780/flutterdevofficial_logo?e=1743638400&v=beta&t=xM8PXiU84_0zBzjG9wn_K-Bh3ZWMjz3qy3ClwOvQt0A",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1660157151780/flutterdevofficial_logo?e=1743638400&v=beta&t=g23b2BpgyamnZvz0I4iR6y6Bom8cQmbxStgWtNF7Vs4",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1660157151780/flutterdevofficial_logo?e=1743638400&v=beta&t=yB3RLAsXWYqaF4rERDH6H9z2_7fzopOjkxWumxNB7QU",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQF1lnr4bvrLKQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "flutterdevofficial"
+        },
+        "urn:li:fs_normalized_company:105044144": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:105044144",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:105044144",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 3966
+            },
+            "description": "Google Public Sector partners with government agencies and educational institutions to create stronger communities through digital transformation, security, and cutting-edge technology.\n\nView open roles here: http://shortn/_vjkg8RQEq6",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-public-sector/",
+            "entityUrn": "urn:li:fs_normalized_company:105044144",
+            "name": "Google Public Sector",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1732217485572/google_public_sector_logo?e=1743638400&v=beta&t=RIuUkJ2SxgYwh1ukgbsnEVPqolEv7MY94qQ3B3CxYeQ",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1732217485572/google_public_sector_logo?e=1743638400&v=beta&t=gMohesUlSU27GVQ7UrFkCZUQaTBkiqVSDQUYZ6cPeUQ",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1732217485572/google_public_sector_logo?e=1743638400&v=beta&t=KHafq1760IZD2qjabULi5ZAYTfVGzXWcqi2ZVV8fx34",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGqQlfJjgp86g/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-public-sector"
+        },
+        "urn:li:fs_normalized_company:6599465": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:6599465",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:6599465",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 121441
+            },
+            "description": "We provide small business owners with tips, tools and resources to grow their businesses online. #GrowWithGoogle",
+            "companyIndustries": [
+                {
+                    "localizedName": "Technology, Information and Internet",
+                    "entityUrn": "urn:li:fs_industry:6"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-small-business/",
+            "entityUrn": "urn:li:fs_normalized_company:6599465",
+            "name": "Google Small Business",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1657125700626/google_small_business_logo?e=1743638400&v=beta&t=q7B-fNv3VXM6Rk_JDwae_aEr9ZOYOvbSPXn1HCe6p2Q",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1657125700626/google_small_business_logo?e=1743638400&v=beta&t=Wu406mQhTIzvkX0LIz4-TzpvAkh1Wv7z-vr1kD2tRG8",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1657125700626/google_small_business_logo?e=1743638400&v=beta&t=uzBLRIkc--4xBO5YoRuYt8sL2BQ-OBC0wV-aqKyUZCQ",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQESyX-XXjsomA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-small-business"
+        },
+        "urn:li:fs_normalized_company:3611194": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3611194",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3611194",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 916036
+            },
+            "description": "Google's source for insights, trends and research in digital media and marketing. Creative inspiration, industry intelligence and best practices for marketing leaders.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Advertising Services",
+                    "entityUrn": "urn:li:fs_industry:80"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/think-with-google/",
+            "entityUrn": "urn:li:fs_normalized_company:3611194",
+            "name": "Think with Google",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1661287344336/think_with_google_logo?e=1743638400&v=beta&t=j6EbtoLrBPi2CtZPWiuzVyv0UAhL9Y84A-kduzNFf1Q",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1661287344336/think_with_google_logo?e=1743638400&v=beta&t=M8fT-WuIJDYp7XpYNxZljdDzADdrQuy-tUZFCP41jVU",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1661287344336/think_with_google_logo?e=1743638400&v=beta&t=YKMVlVgBL2HR1lfjpsCoh8pCTpC_Rkag0nXdGvRs49Q",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQG0wixREuYNmA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "think-with-google"
+        },
+        "urn:li:fs_normalized_company:18950740": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:18950740",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:18950740",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 31737
+            },
+            "description": "The latest information about Android Enterprise.",
+            "companyIndustries": [
+                {
+                    "localizedName": "IT Services and IT Consulting",
+                    "entityUrn": "urn:li:fs_industry:96"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/androidenterprise/",
+            "entityUrn": "urn:li:fs_normalized_company:18950740",
+            "name": "Android Enterprise",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1693934124061/androidenterprise_logo?e=1743638400&v=beta&t=fTFthdHDiJFhyUKOIC-z8qKfpTF_hRWr29MTsJ2EaFk",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1693934124061/androidenterprise_logo?e=1743638400&v=beta&t=7Xw-Y_ABKNQu-fY9nd3u-L3rajJ2WQfYpJf2CyTMTEg",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1693934124061/androidenterprise_logo?e=1743638400&v=beta&t=9cKDuJH8cTo8SjaW8lWoqfj2JWcX6s7TPUdCptPcPLo",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGCZEOhM7Et2A/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "androidenterprise"
+        },
+        "urn:li:fs_normalized_company:25013385": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:25013385",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:25013385",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 1961062
+            },
+            "description": "Discover the latest technologies, resources, events, and announcements to help you build smarter and ship faster.\n\nExplore more at developers.google.com",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/googledevelopers/",
+            "entityUrn": "urn:li:fs_normalized_company:25013385",
+            "name": "Google for Developers",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1719847719138/googledevelopers_logo?e=1743638400&v=beta&t=Bn6rZWkM1DhYspV8FnI7oHc_cCi6iO01hDkU_zvk70k",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1719847719138/googledevelopers_logo?e=1743638400&v=beta&t=ilCRlOLSnV1745Wi0QKfuo-erXBbSxvUWu9iFpa1dGA",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1719847719138/googledevelopers_logo?e=1743638400&v=beta&t=KRuhw4oKSZnF6PYNvKbSnJIpE44gKNvykXExkp-CgtM",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEP-GpBjUi_iA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "googledevelopers"
+        },
+        "urn:li:fs_normalized_company:71625768": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:71625768",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:71625768",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 44975
+            },
+            "description": "When your phone, tablet, watch, TV or car\u2019s tech goes from just working to actually making life easier, that\u2019s when you know Android is behind it. With over 2.5 billion active devices around the world, our goal is to create features that are useful for all. Find the latest product news and go deep with stories behind the tech.\n\ud83d\udccdEmerald City, Oz",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/android_by_google/",
+            "entityUrn": "urn:li:fs_normalized_company:71625768",
+            "name": "Android",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1733334232593/android_by_google_logo?e=1743638400&v=beta&t=B_h-pQmbME6TUz3kzlMxeAA8XJuqDEhHsu-sc7zEf3o",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1733334232593/android_by_google_logo?e=1743638400&v=beta&t=22bRPZcgfnw_PWBldeRLKsMH-aWo_2kxc3twR24kU38",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1733334232593/android_by_google_logo?e=1743638400&v=beta&t=jxpmo-CEY0HtFeYl6lRo0y0-DU5iQWDfYnMvTo3R63o",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQFr0h5akY-hCw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "android_by_google"
+        },
+        "urn:li:fs_normalized_company:29015212": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:29015212",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:29015212",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 151906
+            },
+            "description": "Grow with Google has helped millions of people find a job, grow their career or business. We are here to help accelerate economic recovery through our technology, tools and training; so that local businesses, communities and people can grow stronger, faster and more resilient.",
+            "companyIndustries": [
+                {
+                    "localizedName": "E-Learning Providers",
+                    "entityUrn": "urn:li:fs_industry:132"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/grow-with-google/",
+            "entityUrn": "urn:li:fs_normalized_company:29015212",
+            "name": "Grow with Google",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631404101430/grow_with_google_logo?e=1743638400&v=beta&t=mKDNLWylzCsTlZ09YU8OjM6E4xnIoCViPU9mHVKPE00",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631404101430/grow_with_google_logo?e=1743638400&v=beta&t=yhkXfGenUf5BHFX-QgWMsioO87_ad3QtnXcjARW9quI",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631404101430/grow_with_google_logo?e=1743638400&v=beta&t=AhOZw2yoyJ0SqrDi4tCfbWjGUj77fEQVXRpNBxTiaao",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFFo-CL-y-UYA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "grow-with-google"
+        },
+        "urn:li:fs_normalized_company:92586569": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:92586569",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:92586569",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 18473
+            },
+            "description": "Thanks for visiting Google Public Policy on LinkedIn, where you\u2019ll find news and updates from Google\u2019s global public policy team. \n\nTo learn more about our commitment to innovation that empowers and global public policies that support a safe and resilient digital future go to publicpolicy.google",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-public-policy/",
+            "entityUrn": "urn:li:fs_normalized_company:92586569",
+            "name": "Google Public Policy",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1685731251145/google_public_policy_logo?e=1743638400&v=beta&t=R4C7osLzyTpYpIazXgmMrP5KW-OXEGvjH8Qhtq1myPU",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1685731251145/google_public_policy_logo?e=1743638400&v=beta&t=XOGtXA5qRmeDN_vF--zgk3n7Fk4vI6OO9ajZ1Rtua5I",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1685731251145/google_public_policy_logo?e=1743638400&v=beta&t=ZErHzS9T8aRs372POvll9p4LfYMwUO8o2nX6bDWtQCw",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQEeDPoBAxsJlg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-public-policy"
+        },
+        "urn:li:fs_normalized_company:103755306": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:103755306",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:103755306",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 5325
+            },
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-search-liaison/",
+            "entityUrn": "urn:li:fs_normalized_company:103755306",
+            "name": "Google Search Liaison",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1721154916593?e=1743638400&v=beta&t=eWAA9oKJ1XI1P2FHasM-5mEPlVinmh3XvY-7KmmySjQ",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1721154916593?e=1743638400&v=beta&t=aLr6XtOh8e9w8BPnwVdbMihszKkpnKh2n4g2FaZCZgw",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1721154916593?e=1743638400&v=beta&t=f5DiLpv9WpI9VR3WHZDji_Seoo3k-x9edCJRknQkJsk",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGi1gBNONsUFA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-search-liaison"
+        },
+        "urn:li:fs_normalized_company:24866": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:24866",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:24866",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 42749
+            },
+            "description": "Learn how to grow your app business with AdMob's best-in-class tech in a single platform, so you can gain insights about your users, drive more in-app purchases, maximize your ad revenue & mediation.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Advertising Services",
+                    "entityUrn": "urn:li:fs_industry:80"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/googleadmob/",
+            "entityUrn": "urn:li:fs_normalized_company:24866",
+            "name": "Google AdMob",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630582208513/admob_logo?e=1743638400&v=beta&t=GixY_QA8iGvTQDXDGE3DBKCXJbhLht6cX4j9D6cHHGE",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630582208513/admob_logo?e=1743638400&v=beta&t=gGrSe_pLyIUefby__fM32uHoQeyhkoc7PoR3e1VZppQ",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630582208513/admob_logo?e=1743638400&v=beta&t=f-iGa0gUNp-UfeqeM7F9wYjJRDLlc9QYHxIE6fq-O7w",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEj4yQ4dFC9zQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "googleadmob"
+        },
+        "urn:li:fs_normalized_company:101031931": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:101031931",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:101031931",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 257940
+            },
+            "description": "From conducting fundamental research to influencing product development, our research teams have the opportunity to impact technology used by billions of people every day.\n\nWe aspire to make discoveries that impact everyone, and sharing our research and tools to fuel progress in the field is fundamental to our approach. \n",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/googleresearch/",
+            "entityUrn": "urn:li:fs_normalized_company:101031931",
+            "name": "Google Research",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1698961278359/googleresearch_logo?e=1743638400&v=beta&t=_XzYswd5dh5o38JcazcAwLw_lliCx4gGpNGfWcmnl8U",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1698961278359/googleresearch_logo?e=1743638400&v=beta&t=QR-oOruiQv-uVVk4ByCg3gxd55v8iqU95u4W2Jrg4dw",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1698961278359/googleresearch_logo?e=1743638400&v=beta&t=mA-DKlw1D6EjCaYYuqrPdAGnEjcOjTkRIPWA5CXXyiY",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQG5rLrtFi47Nw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "googleresearch"
+        },
+        "urn:li:fs_normalized_company:102840132": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:102840132",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:102840132",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 5986
+            },
+            "description": "Over the past 20 years, mobile and location has transformed what businesses can do and how their customers experience the world. In large part Google Maps has made this possible. \n\nExplore how you can visualize and understand the real world with Google Maps Platform. Learn how we can help you immerse audiences in new ways, improve user experiences and operations, and enable better choices for a more sustainable future.\n\nFollow to get all the latest news and updates.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/googlemapsplatform/",
+            "entityUrn": "urn:li:fs_normalized_company:102840132",
+            "name": "Google Maps Platform",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1710450776300/gmapsplatform_logo?e=1743638400&v=beta&t=D5F8N0pu3OxzJ_VAeOL5wgSLqvjRI73vs-ORzpVWerY",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1710450776300/gmapsplatform_logo?e=1743638400&v=beta&t=dU12AumYCGDZd0nT1z2NLIoW1Hg-wM24twQImb7v71c",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1710450776300/gmapsplatform_logo?e=1743638400&v=beta&t=Op3LAanPzseZfDVGTO5scDSAGgdCFOUt7yO2IbWnCNk",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHExZWymL9ytg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "googlemapsplatform"
+        },
+        "urn:li:fs_normalized_company:27109944": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:27109944",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:27109944",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 16901
+            },
+            "description": "North America developer communities across US and Canada. There are several programs supporting various developer audiences such as students, startups & more! \n\nTo learn more, visit our website.  \n",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-developers-north-america/",
+            "entityUrn": "urn:li:fs_normalized_company:27109944",
+            "name": "Google Developers North America",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1709662277991/google_developers_north_america_logo?e=1743638400&v=beta&t=1ZZjtqM21KfjcQumzrsXKIKX3Jmzq_YeGHKydxB5Gtw",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1709662277992/google_developers_north_america_logo?e=1743638400&v=beta&t=MR5gINQiUzE4jhg3g-htmFObE1uOS5RkyxSkTd3WMqw",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1709662277992/google_developers_north_america_logo?e=1743638400&v=beta&t=6_ztAaEhhFbcBHhhW6E72HTX4mjw8I2GVGM9n77Hmbs",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFoGWWSOfPdVQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-developers-north-america"
+        },
+        "urn:li:fs_normalized_company:29116768": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:29116768",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:29116768",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 239256
+            },
+            "description": "Google Ad Manager is a complete platform to grow all of your digital ad revenues and protect your brand in all the new ways and places people are watching, playing, and engaging. Our unified platform leverages Google technology to help you run your business more efficiently and keep your brand protected.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Advertising Services",
+                    "entityUrn": "urn:li:fs_industry:80"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-ad-manager/",
+            "entityUrn": "urn:li:fs_normalized_company:29116768",
+            "name": "Google Ad Manager",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631360794432/google_ad_manager_logo?e=1743638400&v=beta&t=erOVEsacawMgVAxrGecTtsoNJtm3SuzU041OT1fhV2c",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631360794432/google_ad_manager_logo?e=1743638400&v=beta&t=fZ_MPM6me-i37f3IDO_p4KAlUOoGHuA1JLhff1GqyKw",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631360794432/google_ad_manager_logo?e=1743638400&v=beta&t=AGGwwpMXRMNeXl-VaY2dEOknI5xTbDwJzFLOyQYfJpk",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGw17ewnMox_w/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-ad-manager"
+        },
+        "urn:li:fs_normalized_company:82288531": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:82288531",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:82288531",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 110112
+            },
+            "description": "The official TensorFlow LinkedIn account from Google. Whether you're an expert or a beginner, TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models.\n",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/tensorflowdev/",
+            "entityUrn": "urn:li:fs_normalized_company:82288531",
+            "name": "TensorFlow",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1668110169199/tensorflowdev_logo?e=1743638400&v=beta&t=mihHKxoOFwWXxJaU4wH1RgfaxIaBNSQSwGdMbPbXjd4",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1668110169199/tensorflowdev_logo?e=1743638400&v=beta&t=JjqgsC4VRdjTu0wZ5WcOD6bDJjdrsI5TvrMQCki39rI",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1668110169199/tensorflowdev_logo?e=1743638400&v=beta&t=TQt4io6ociy2XR5vrzb5wYIgbgSQXkMI1DzfOOBPwNc",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFt0fJxtxk-lg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "tensorflowdev"
+        },
+        "urn:li:fs_normalized_company:82288532": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:82288532",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:82288532",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 2577
+            },
+            "url": "https://www.linkedin.com/showcase/firebase-hold/",
+            "entityUrn": "urn:li:fs_normalized_company:82288532",
+            "name": "Firebase",
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "firebase-hold"
+        },
+        "urn:li:fs_normalized_company:2868133": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:2868133",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:2868133",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 44289
+            },
+            "description": "Build & run modern, AI-powered experiences users love with Firebase, a platform designed to support you throughout your app development journey. Backed by Google and trusted by millions of businesses around the world.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/firebase/",
+            "entityUrn": "urn:li:fs_normalized_company:2868133",
+            "name": "Firebase",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1729106317821/firebase_logo?e=1743638400&v=beta&t=sWG7mL3SHfj5OqW_eWKp2cC2CMmx6RzQbUk47vBk7TE",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1729106317821/firebase_logo?e=1743638400&v=beta&t=LIrAIhuk_IRKCshl08yXAg5JECEyGLFk5vivD3weTIM",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1729106317821/firebase_logo?e=1743638400&v=beta&t=q2GRmNfy7YVjD9wMDWBe6jkUOK1cVe0Gzt-ZgMpmkD0",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQH_5kvrJUkLuw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "firebase"
+        },
+        "urn:li:fs_normalized_company:6644131": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:6644131",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:6644131",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 75597
+            },
+            "description": "Practices, research, and ideas from Google and other organizations to put people first. Get involved in the conversation by sharing your experiences and insights using #makeworkbetter.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Human Resources Services",
+                    "entityUrn": "urn:li:fs_industry:137"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/rework-with-google/",
+            "entityUrn": "urn:li:fs_normalized_company:6644131",
+            "name": "re:Work with Google",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631331138435?e=1743638400&v=beta&t=ye3R48BRaTNTtNbDIwrdh9YpSb0uAbInarK4J7vUE2c",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631331138435?e=1743638400&v=beta&t=5SoKQv_tEAFWZmnqSn_RJ86sDNQmd33jMyPKP0lr9E8",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631331138435?e=1743638400&v=beta&t=oUZXtgbMSA79hNwFRRBgv88-ffgNpvRC8_3nCRTKcLQ",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGk9X0v8TL6xw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "rework-with-google"
+        },
+        "urn:li:fs_normalized_company:8629486": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:8629486",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:8629486",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 96356
+            },
+            "description": "Google Health is committed to helping everyone live more life every day through products and services that connect and bring meaning to health information. We\u2019re developing technology solutions to enable care teams to deliver better, faster and more connected care. We\u2019re working on products and features to empower people to be healthier with the information, assistance, and connections they need to act on their health. And we\u2019re exploring the use of artificial intelligence to assist in diagnosing cancer, predicting patient outcomes, preventing blindness and much more. Our work complements Google\u2019s mission to organize the world\u2019s information and make it universally accessible and useful.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-health/",
+            "entityUrn": "urn:li:fs_normalized_company:8629486",
+            "name": "Google Health",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1633974230650/google_health_logo?e=1743638400&v=beta&t=gia4LxmFCKIVK9Q5NznUi3dzW9ehbFqT23co1kMN4eo",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1633974230650/google_health_logo?e=1743638400&v=beta&t=8IhWEq50AXoJ2lEVHP3C46FScd9Pt3gfF_hBdD8GGUA",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1633974230650/google_health_logo?e=1743638400&v=beta&t=MzS5h2wPnbQiKmxfqXJXugRMuX5hSItf_Cvv6vVAFBs",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQFJZb4M_WSxmA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-health"
+        },
+        "urn:li:fs_normalized_company:96908570": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:96908570",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:96908570",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 24369
+            },
+            "description": "Experience the world in a whole new dimension. Augmented, virtual, and immersive reality expand how we experience the world and access knowledge.\n",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/googlearvr/",
+            "entityUrn": "urn:li:fs_normalized_company:96908570",
+            "name": "Google AR & VR",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1694037136456/googlearvr_logo?e=1743638400&v=beta&t=0Qz_q-9BuYFnv7yRL30Js9r1oQnTY_MikE6KAvRoRjI",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1694037136456/googlearvr_logo?e=1743638400&v=beta&t=aldxjZvlMpT_sh_2yR7rQz9XKRWfk1wruPKEq_9I5_g",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1694037136456/googlearvr_logo?e=1743638400&v=beta&t=C8DTehlwv3V0TG3ozFWZLq3Xk-1Y9qG2qwIWKkSzOLs",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQFbjAOsOOmBEQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "googlearvr"
+        },
+        "urn:li:fs_normalized_company:102720926": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:102720926",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:102720926",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 65410
+            },
+            "description": "Google Search Central is here to help the right people view your content with resources to make your website discoverable to Google Search. ",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/googlesearchcentral/",
+            "entityUrn": "urn:li:fs_normalized_company:102720926",
+            "name": "Google Search Central",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1715877453021?e=1743638400&v=beta&t=V8-n_9xXYXqbEOfs6kxJIehf-2I-dLWSXb7_Cmo0qSY",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1715877453021?e=1743638400&v=beta&t=t6_TZTH0be6ulTKBPrci1Qd3_A49sCx49wU50fZBwQA",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1715877453021?e=1743638400&v=beta&t=9xs6_B1LfyiO33WP-NBht6F6kybnk2_qcAaDsS8F9Jw",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQHU22ISGMrPuw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "googlesearchcentral"
+        },
+        "urn:li:fs_normalized_company:11321165": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:11321165",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:11321165",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 465515
+            },
+            "description": "GDGs are local groups of developers who are specifically interested in Google products and APIs: everything from Android, App Engine, and Mobile Web platforms, to product APIs for products like Google Maps, YouTube, Google Calendar, and more. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons. \n\nGoogle Developers supports and recognizes GDG chapters, but doesn\u2019t own or manage them.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-developer-groups/",
+            "entityUrn": "urn:li:fs_normalized_company:11321165",
+            "name": "Google Developer Groups (GDG)",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630570752037/community_groups_program_gdg_logo?e=1743638400&v=beta&t=U_mkBKDlJ2peGcfTowONEO4h6UeXQHbOm-v4pOcTYEg",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630570752037/community_groups_program_gdg_logo?e=1743638400&v=beta&t=m_ayLzdyPHs2gYz1QFp-_IDuQ0jCgvwBCrGtj-hA2cI",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630570752037/community_groups_program_gdg_logo?e=1743638400&v=beta&t=AJdumQQMZME01YZRirDMjA9K0jsCLCbVLAMAY-KSaJw",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFUyrWqc079tw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-developer-groups"
+        },
+        "urn:li:fs_normalized_company:10476436": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:10476436",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:10476436",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 536015
+            },
+            "description": "Stay on top of your data game with the latest news and product updates on Google Analytics, Tag Manager, and, of course, the Google tag itself! Get the scoop at g.co/marketingplatform.\n\nWant to take your tagging skills to the next level? Deep dive into our newest Google Tagging Tutorials series! These easy-to-follow lessons will turn you from a tagging novice to a pro in no time. Check them out \u2192 https://bit.ly/4d7VfxR",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-analytics/",
+            "entityUrn": "urn:li:fs_normalized_company:10476436",
+            "name": "Google Analytics",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631433614727/google_analytics_logo?e=1743638400&v=beta&t=QP5Jy1R2U-nbPQbGNb1BFYKGpKDjMbUVeX9391Sjbro",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631433614727/google_analytics_logo?e=1743638400&v=beta&t=JRLgrbq_iO48F-K9yfAvvwa9cl8sbYBJUpMj6-BbdNI",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631433614727/google_analytics_logo?e=1743638400&v=beta&t=U0bvE105_M5FljNEexaHK2dB-V_qKsgq5xJjMreZ0Wk",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHDx1a8WwtGpQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-analytics"
+        },
+        "urn:li:fs_normalized_company:105292422": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:105292422",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:105292422",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 1885
+            },
+            "description": "Our goal is to equip developers with the most advanced models to build new applications, helpful tools to write better and faster code, and make it easy to integrate across platforms and devices.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/googleaidevs/",
+            "entityUrn": "urn:li:fs_normalized_company:105292422",
+            "name": "Google AI Developers",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1733522182114/googleaidevs_logo?e=1743638400&v=beta&t=0CzlggPZjan-FCx8cOO1J6unmV_u4_Bcf6ZPkSgW1vE",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1733522182114/googleaidevs_logo?e=1743638400&v=beta&t=6NXXgrr8yJIYk9uAHmlC0YRz6qw3wuhMoHRrcqpVy-s",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1733522182114/googleaidevs_logo?e=1743638400&v=beta&t=z_oaNeGr23qaumjpXRdfVGI-jpC7w4Bn1C9NaQHJVQE",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGd2bTlJsilLg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "googleaidevs"
+        },
+        "urn:li:fs_normalized_company:11094280": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:11094280",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:11094280",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 22180
+            },
+            "description": "Learn. Evolve. Grow.\nWith helpful trainings and tools to support your career or business.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/gwgafrica/",
+            "entityUrn": "urn:li:fs_normalized_company:11094280",
+            "name": "Grow with Google Africa",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1663665846362/gwgafrica_logo?e=1743638400&v=beta&t=yzvS1x5YrPHAxQwuWDFdjiaPjyl2nJuv-FwqvWTFdWo",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1663665846362/gwgafrica_logo?e=1743638400&v=beta&t=cnWux8pcdQldTGXuBi0vp1-zK-INbum013UXKf_q0fg",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1663665846362/gwgafrica_logo?e=1743638400&v=beta&t=N9SQ2jodTsnBwyaJpwPPauZl-8JIGJg79AgA5Y2-IE8",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQGhu6yKgqn-Tg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "gwgafrica"
+        },
+        "urn:li:fs_normalized_company:15859534": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:15859534",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:15859534",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 124370
+            },
+            "description": "Whether your business is early in its journey or well on its way to digital transformation, Google Cloud's solutions and technologies help chart a path to success. Learn more about tools, technology, and support for Google Cloud Partners to accelerate business for their customers.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Technology, Information and Internet",
+                    "entityUrn": "urn:li:fs_industry:6"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-cloud-partners/",
+            "entityUrn": "urn:li:fs_normalized_company:15859534",
+            "name": "Google Cloud Partners",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630603869371/google_cloud_partners_logo?e=1743638400&v=beta&t=G4Y00cwYtM2D6ztGR1Nov-oUjKAgNj-d2acKMemkDYQ",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630603869371/google_cloud_partners_logo?e=1743638400&v=beta&t=mtKUD20LeMh8K-WPtGMBS7ZmiBBkMrzKLpLroMKPegk",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630603869371/google_cloud_partners_logo?e=1743638400&v=beta&t=nvNjMxydnxztXg48er12ZI4hkH3lXEoJni0gXX8rThw",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHgiaAqw0cAZQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-cloud-partners"
+        },
+        "urn:li:fs_normalized_company:10124320": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:10124320",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:10124320",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 69956
+            },
+            "description": "Google Partners is Google\u2019s program for advertising agencies, digital marketers & online professionals. Follow us here for the latest news & updates. Visit google.com/partners for more info.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Advertising Services",
+                    "entityUrn": "urn:li:fs_industry:80"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-partners/",
+            "entityUrn": "urn:li:fs_normalized_company:10124320",
+            "name": "Google Partners",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631340633685?e=1743638400&v=beta&t=KLCtrrEn4m426N7QtwAZCGAH4ZITlelQXMln4eGC8gY",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631340633685?e=1743638400&v=beta&t=nmvtrM7xhdtu5Q2cv_v0t3fqzUJLUjLf_Jg61Q_MwrY",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631340633685?e=1743638400&v=beta&t=o9CxXsgEyJFN5OtAVP-QM3b-JzStOOtdX3sQOWjpS-M",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGQQRSdCkTbBQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-partners"
+        },
+        "urn:li:fs_normalized_company:33198155": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:33198155",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:33198155",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 340360
+            },
+            "description": "Introducing Google Marketing Platform, a unified advertising and analytics platform for smarter marketing and better results. Learn more at g.co/marketingplatform ",
+            "companyIndustries": [
+                {
+                    "localizedName": "Advertising Services",
+                    "entityUrn": "urn:li:fs_industry:80"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/googlemarketingplatform/",
+            "entityUrn": "urn:li:fs_normalized_company:33198155",
+            "name": "Google Marketing Platform",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631440027919/googlemarketingplatform_logo?e=1743638400&v=beta&t=t4hScmccBTPuiNOd7gemMJV8pF9q1o_t5oMPwHM7FX8",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631440027919/googlemarketingplatform_logo?e=1743638400&v=beta&t=YGMEzKX_G8KvcnXp5JBJQp8JivNldlB-pz577KUMqEg",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631440027919/googlemarketingplatform_logo?e=1743638400&v=beta&t=MW_RR5UyWQAC9PRKQIbOR_PINXOs9r0DWdldlTH0AsM",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQGzJC06vcaaeA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "googlemarketingplatform"
+        },
+        "urn:li:fs_normalized_company:77163696": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:77163696",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:77163696",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 126189
+            },
+            "description": "The official Android Developers LinkedIn account from Google. Delivering the latest on Android development tools and resources to help you build experiences that people love, faster and easier, across every Android device.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/androiddev/",
+            "entityUrn": "urn:li:fs_normalized_company:77163696",
+            "name": "Android Developers",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1693936495146/androiddev_logo?e=1743638400&v=beta&t=Mp0ntGmS7e6aSeMrLGHAp2AywdrrHBiz8w02NV5Q2eI",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1693936495146/androiddev_logo?e=1743638400&v=beta&t=UtO_MIvpxea-XWVuFo5kTKg6HHchmlPEPWwiDU7DMlQ",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1693936495146/androiddev_logo?e=1743638400&v=beta&t=evChy80bL4FZjWRfJdeXqTMDsrYLz1Htv_y15kMiKhY",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQGBFrDw8_Nd5w/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "androiddev"
+        },
+        "urn:li:fs_normalized_company:9416052": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:9416052",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:9416052",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 803275
+            },
+            "description": "Get started with the Google Ads AI Essentials\u2192 g.co/ads/aiessentials \u2705\n\nThe official page for updates, tips, and inspiration from the Google Ads team.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Advertising Services",
+                    "entityUrn": "urn:li:fs_industry:80"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-ads-/",
+            "entityUrn": "urn:li:fs_normalized_company:9416052",
+            "name": "Google Ads",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631424821422/google_ads__logo?e=1743638400&v=beta&t=Q1i0JoWOwiDIwFEMqRUwgtqXj4BS6_RM8naYK50uTQg",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631424821422/google_ads__logo?e=1743638400&v=beta&t=lcRTfdWkw0iCwOsMd7zh6UwXBViQpvRwsB36YI4ej_w",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631424821422/google_ads__logo?e=1743638400&v=beta&t=aZdfeiMe5Ogu9Q3zDTJYKODPBATQTgNOaWnTmkhjDTM",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQH9F59ob8d3QQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-ads-"
+        },
+        "urn:li:fs_normalized_company:18557142": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:18557142",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:18557142",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 41437
+            },
+            "description": "A better way to pay, by Google",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-pay/",
+            "entityUrn": "urn:li:fs_normalized_company:18557142",
+            "name": "Google Pay",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631432403639?e=1743638400&v=beta&t=Gt1LATxAwMxIi71D4KUqobn_4wCN9Y4-zb9Cm43ockg",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631432403639?e=1743638400&v=beta&t=_cim4cw_8CC7Flj17eOhgn5CzjaeyYi-8vky--foJeE",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631432403639?e=1743638400&v=beta&t=mKkBQ4ioHiAN57VuGXeJYhrgr6oSFSONcWhCPXqdBos",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQFWCk66BYhwMw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-pay"
+        },
+        "urn:li:fs_normalized_company:66345263": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:66345263",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:66345263",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 17432
+            },
+            "description": "At Google Nest, our goal is to create a home that takes care of the people inside it and the world around it. By partnering with us, we can help your business grow and get ready for the future of connected living.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-nest/",
+            "entityUrn": "urn:li:fs_normalized_company:66345263",
+            "name": "Google Nest Pro ",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1676486274466/google_nest_logo?e=1743638400&v=beta&t=2-xptVUYcMMbq-XsZfA8hIu4cUtOyQ0g8zUGHen16Kw",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1676486274466/google_nest_logo?e=1743638400&v=beta&t=PpL_PnRDpQicaH2gzIZxIFnNTj--yzOXlQ2xz4LKXAA",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1676486274466/google_nest_logo?e=1743638400&v=beta&t=CR5F8YoR6fl6gq8lEiY9v9kRYdTHen3_RERaqKqgHag",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQH_OmH7hYAD2A/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-nest"
+        },
+        "urn:li:fs_normalized_company:18221770": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:18221770",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:18221770",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 62877
+            },
+            "description": "Best practices, insights and news to grow your app or game. This is an official Google Play channel.\n\nFollow us on Twitter (@GooglePlayBiz).\nSubscribe to our newsletter: https://goo.gle/news-signup",
+            "companyIndustries": [
+                {
+                    "localizedName": "IT Services and IT Consulting",
+                    "entityUrn": "urn:li:fs_industry:96"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/googleplaybiz/",
+            "entityUrn": "urn:li:fs_normalized_company:18221770",
+            "name": "Google Play business community",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1658765701208/googleplaybiz_logo?e=1743638400&v=beta&t=DDuuzhwiIVfg6XkwIYEnZjF3todxMemnLUIWyTuaO70",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1658765701208/googleplaybiz_logo?e=1743638400&v=beta&t=-6Vg1Yno3S-PanWmvS3RJCxLSwaN_WtzSsVQN7NJmVU",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1658765701208/googleplaybiz_logo?e=1743638400&v=beta&t=dkLtGX_uI0zE9GPWjtCT6uZjx6MJ4j90Cbe321u_Wjs",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQEa9sSivPQ4cg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "googleplaybiz"
+        },
+        "urn:li:fs_normalized_company:3668753": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3668753",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3668753",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 516406
+            },
+            "description": "Google Workspace is how teams of all sizes do their best work.",
+            "companyIndustries": [
+                {
+                    "localizedName": "IT Services and IT Consulting",
+                    "entityUrn": "urn:li:fs_industry:96"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/googleworkspace/",
+            "entityUrn": "urn:li:fs_normalized_company:3668753",
+            "name": "Google Workspace",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630573711840/googleworkspace_logo?e=1743638400&v=beta&t=KBJvYevnwVy7IAHFTh6u4aCSKUQD2j4_nzRU6uIEea4",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630573711840/googleworkspace_logo?e=1743638400&v=beta&t=MtVBW-srFguA0dGrDnDQK9KL1XRI0G7ujoK5hW47ljk",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630573711840/googleworkspace_logo?e=1743638400&v=beta&t=9REV36Osi5ZtcPvslCCgGPQFD07JuhynLY4I-Xh9AEo",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHuLzhR-WUSMg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "googleworkspace"
+        },
+        "urn:li:fs_normalized_company:18925599": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:18925599",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:18925599",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 30334
+            },
+            "description": "Tell us what you think about Google products and features by participating in our user research studies. You\u2019ll get a token of our appreciation plus the chance to help build something you\u2019ll love.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-user-research./",
+            "entityUrn": "urn:li:fs_normalized_company:18925599",
+            "name": "Google User Experience Research",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630591519443/google_user_research_logo?e=1743638400&v=beta&t=JrAWqCxWLUzDt3Bg6bFX045BMyS48xiVfgtfdRrOOEo",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630591519444/google_user_research_logo?e=1743638400&v=beta&t=WJLv8oAcMtgf_zLeoJLV3SCqDv8SLIobNecwGMNoHl8",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630591519444/google_user_research_logo?e=1743638400&v=beta&t=sPHf-8LcB-GzbYHKeY72D1eOsRORhVP1rSFNLq0WUwU",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQH06LdMOtQq_w/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-user-research."
+        },
+        "urn:li:fs_normalized_company:12997578": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:12997578",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:12997578",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 61004
+            },
+            "description": "Partnering with journalists and publishers to build a stronger future for news.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Online Audio and Video Media",
+                    "entityUrn": "urn:li:fs_industry:113"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-news-initiative/",
+            "entityUrn": "urn:li:fs_normalized_company:12997578",
+            "name": "Google News Initiative",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1648217189857/google_news_initiative_logo?e=1743638400&v=beta&t=7rkP5ff1cADRpBdgMTOc98aXjsNltFFqGZG9I2oMM-0",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1648217189857/google_news_initiative_logo?e=1743638400&v=beta&t=3JMKcNx5nM4-9gf5qDF1BMckmkM8K9ZPsm_dMHm_QJ8",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1648217189857/google_news_initiative_logo?e=1743638400&v=beta&t=0fDwnC2PCgRSsjn_xMEIWR6MCIwbqlLw7tdblfIkZos",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQENwPk8U5nwXQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-news-initiative"
+        },
+        "urn:li:fs_normalized_company:82286774": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:82286774",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:82286774",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 3271
+            },
+            "url": "https://www.linkedin.com/showcase/flutterdev-hold/",
+            "entityUrn": "urn:li:fs_normalized_company:82286774",
+            "name": "Flutter",
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "flutterdev-hold"
+        },
+        "urn:li:fs_normalized_company:74357847": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:74357847",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:74357847",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 19961
+            },
+            "description": "Fast, simple and secure. The browser built by Google is designed to help you stay productive while on the web. Find the latest features, news and stories behind the technology from the browser.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/google-chrome/",
+            "entityUrn": "urn:li:fs_normalized_company:74357847",
+            "name": "Google Chrome",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1649349588413/google_chrome_logo?e=1743638400&v=beta&t=66DpxryQr-loXGKpcT-h8b5YF6YIJoFxVmHPmysWZCk",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1649349588413/google_chrome_logo?e=1743638400&v=beta&t=hdBr6MomJJkWG1Rm90kdk8MLPm-NE0IwCNr9H75Tw5w",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1649349588413/google_chrome_logo?e=1743638400&v=beta&t=YJfu40JpmpjcGdzmYleL5-Gs11Z6soCjIUb8amqqh4o",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHpUJ_qDlImBQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "google-chrome"
+        },
+        "urn:li:fs_normalized_company:66341749": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:66341749",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:66341749",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 107554
+            },
+            "description": "Google ChromeOS and Chrome Enterprise offer a powerful combination of solutions for your business. \n\nChromeOS is the cloud-based OS at the heart of every Chromebook. And with ChromeOS device management, you can onboard employees, manage devices remotely, and more. Chrome Enterprise builds on the trusted Chrome browser, adding centralized management, enhanced security, and scalability for businesses. \n\nChromeOS and Chrome Enterprise \u2013 the cloud-first, secure OS for your business and the most trusted enterprise browser \u2013 are the intelligent choices for the modern enterprise.\n\nLearn more:\nchromeos.google\nchromeenterprise.google ",
+            "companyIndustries": [
+                {
+                    "localizedName": "IT Services and IT Consulting",
+                    "entityUrn": "urn:li:fs_industry:96"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/chrome-enterprise/",
+            "entityUrn": "urn:li:fs_normalized_company:66341749",
+            "name": "ChromeOS & Chrome Enterprise",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1675144820382/chrome_enterprise_logo?e=1743638400&v=beta&t=GgtFFufatmkWNFf9MNM5ZPII36AjSC9ATV2331C7W1U",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1675144820383/chrome_enterprise_logo?e=1743638400&v=beta&t=vvSX1B6IcTSmm4uLkDGYGEfsSFSbJ8T0iLlOglnxBM8",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1675144820383/chrome_enterprise_logo?e=1743638400&v=beta&t=lbHfn6_886xryrX4ApnFtzS5TCD6S2bhGMVHJMP6XGs",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQHzYXxutuas9A/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "chrome-enterprise"
+        },
+        "urn:li:fs_normalized_company:99371798": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:99371798",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:99371798",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 8868
+            },
+            "description": "The official Chrome for Developers LinkedIn account from Google. We want to help you build beautiful, accessible, fast, and secure websites that work cross-browser, and for all of your users.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Software Development",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/chrome-for-developers/",
+            "entityUrn": "urn:li:fs_normalized_company:99371798",
+            "name": "Chrome for Developers",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1706292924372?e=1743638400&v=beta&t=wTDmOtwUbBwoP0SXpIHZ0elHJIf_HRc-OkGJJHrJwGY",
+                                "expiresAt": 1743638400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1706292924372?e=1743638400&v=beta&t=Gy2SnuPzkNCXfmcdIvpt7gJQtZqy95SVOfspGH9CNcc",
+                                "expiresAt": 1743638400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1706292924372?e=1743638400&v=beta&t=mofwGhbxUBaYTCxeaOgsCk3nxSUuY_Z2UN9kZerCx1c",
+                                "expiresAt": 1743638400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQFAkDPGM_aNUQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "chrome-for-developers"
+        }
+    },
+    "paidCompany": true,
+    "universalName": "google",
+    "viewerPendingAdministrator": false,
+    "companyPageUrl": "https://goo.gle/3DLEokh",
+    "viewerConnectedToAdministrator": false,
+    "affiliatedCompanies": [
+        "urn:li:fs_normalized_company:17876832",
+        "urn:li:fs_normalized_company:791962",
+        "urn:li:fs_normalized_company:10337946",
+        "urn:li:fs_normalized_company:2374003",
+        "urn:li:fs_normalized_company:18950635",
+        "urn:li:fs_normalized_company:16140",
+        "urn:li:fs_normalized_company:89982912",
+        "urn:li:fs_normalized_company:10440912"
+    ],
+    "dataVersion": -1,
+    "companyType": {
+        "localizedName": "Public Company",
+        "code": "PUBLIC_COMPANY"
+    },
+    "coverPhoto": {
+        "com.linkedin.voyager.common.MediaProcessorImage": {
+            "id": "/AAEAAQAAAAAAAAl6AAAAJDAwMDBlMTIwLTQ1ODEtNDcyNC04NjlhLWViZjZlMTlmOWVkZA.png"
+        }
+    },
+    "associatedHashtags": [
+        "urn:li:fs_contentTopicData:urn:li:hashtag:google"
+    ],
+    "groups": [],
+    "url": "https://www.linkedin.com/company/google",
+    "showcasePages": [
+        "urn:li:fs_normalized_company:102720926",
+        "urn:li:fs_normalized_company:66341749",
+        "urn:li:fs_normalized_company:103755306",
+        "urn:li:fs_normalized_company:10476436",
+        "urn:li:fs_normalized_company:12997578",
+        "urn:li:fs_normalized_company:3611194",
+        "urn:li:fs_normalized_company:2868133",
+        "urn:li:fs_normalized_company:29015212",
+        "urn:li:fs_normalized_company:18321920",
+        "urn:li:fs_normalized_company:11094280",
+        "urn:li:fs_normalized_company:24866",
+        "urn:li:fs_normalized_company:27109944",
+        "urn:li:fs_normalized_company:3668753",
+        "urn:li:fs_normalized_company:77163696",
+        "urn:li:fs_normalized_company:3648281",
+        "urn:li:fs_normalized_company:33198155",
+        "urn:li:fs_normalized_company:7959499",
+        "urn:li:fs_normalized_company:12895996",
+        "urn:li:fs_normalized_company:74357847",
+        "urn:li:fs_normalized_company:10124320",
+        "urn:li:fs_normalized_company:18925599",
+        "urn:li:fs_normalized_company:15859534",
+        "urn:li:fs_normalized_company:105292422",
+        "urn:li:fs_normalized_company:82540973",
+        "urn:li:fs_normalized_company:6644131",
+        "urn:li:fs_normalized_company:92586569",
+        "urn:li:fs_normalized_company:18557142",
+        "urn:li:fs_normalized_company:6599465",
+        "urn:li:fs_normalized_company:82286774",
+        "urn:li:fs_normalized_company:66345263",
+        "urn:li:fs_normalized_company:96908570",
+        "urn:li:fs_normalized_company:29116768",
+        "urn:li:fs_normalized_company:18221770",
+        "urn:li:fs_normalized_company:25014428",
+        "urn:li:fs_normalized_company:11321165",
+        "urn:li:fs_normalized_company:102840132",
+        "urn:li:fs_normalized_company:71625768",
+        "urn:li:fs_normalized_company:11830105",
+        "urn:li:fs_normalized_company:8629486",
+        "urn:li:fs_normalized_company:105044144",
+        "urn:li:fs_normalized_company:82288532",
+        "urn:li:fs_normalized_company:68591333",
+        "urn:li:fs_normalized_company:82288531",
+        "urn:li:fs_normalized_company:25013385",
+        "urn:li:fs_normalized_company:18950740",
+        "urn:li:fs_normalized_company:99371798",
+        "urn:li:fs_normalized_company:6644127",
+        "urn:li:fs_normalized_company:9416052",
+        "urn:li:fs_normalized_company:6625054",
+        "urn:li:fs_normalized_company:101031931",
+        "urn:li:fs_normalized_company:68699878",
+        "urn:li:fs_normalized_company:68684775",
+        "urn:li:fs_normalized_company:27115234"
+    ],
+    "claimableByViewer": false,
+    "jobSearchPageUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=1441%2C17876832%2C791962%2C2374003%2C18950635%2C16140%2C89982912%2C10440912",
+    "showcase": false,
+    "autoGenerated": false,
+    "backgroundCoverImage": {
+        "image": {
+            "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                    {
+                        "width": 750,
+                        "fileIdentifyingUrlPathSegment": "27_750/image-scale_127_750/0/1715888854094/google_cover?e=1735884000&v=beta&t=Va_YukZ4YtRc9nQLX1kCvOKbCJBdQ-b9q9jTfWpIEfE",
+                        "expiresAt": 1735884000000,
+                        "height": 126
+                    },
+                    {
+                        "width": 108,
+                        "fileIdentifyingUrlPathSegment": "08_640/image-scale_108_640/0/1715888854094/google_cover?e=1735884000&v=beta&t=5fY16jthXa-at-BStcnoBeTHp_g-CQk8Bn9noc1QYA0",
+                        "expiresAt": 1735884000000,
+                        "height": 18
+                    },
+                    {
+                        "width": 1128,
+                        "fileIdentifyingUrlPathSegment": "91_1128/image-scale_191_1128/0/1715888854094/google_cover?e=1735884000&v=beta&t=VRhC0KcC3gDv33rqEirB0wkE58_N8AVCJF2RJZtrf70",
+                        "expiresAt": 1735884000000,
+                        "height": 191
+                    }
+                ],
+                "rootUrl": "https://media.licdn.com/dms/image/v2/D563DAQFydSPUShE9gQ/image-scale_1"
+            }
+        },
+        "cropInfo": {
+            "x": 0,
+            "width": 1128,
+            "y": 0,
+            "height": 191
+        }
+    }
+}

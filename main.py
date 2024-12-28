@@ -2,9 +2,10 @@ import os
 from time import sleep
 
 
-from jobScrapper import LinkedInJobScraper
-from candidateScrapper import LinkedInProfileScraper
-from company import LinkedInCompanyDetails
+from scripts.jobScrapper import LinkedInJobScraper
+from scripts.candidateScrapper import LinkedInProfileScraper
+from scripts.company import LinkedInCompanyDetails
+from scripts.googleScrapper import GoogleLinkedinProfileScraper
 
 
 from config import LI_AT
@@ -16,10 +17,11 @@ print("---- WELCOME TO LINKEDIN SCRAPPER ------")
 print("1. Scrape LinkedIn Jobs")
 print("2. Scrape LinkedIn Profiles")
 print("3. Scrape LinkedIn Companies")
-print("4. Exit")
-print("Please Select an option above : ")
+print("4. Scrape Profiles From Google")
+print("5. Exit")
 
-option = input()
+
+option = input("Please Select an option above : ")
 cookie = LI_AT
 
 # Switch Case To Handle Options
@@ -83,6 +85,15 @@ match option:
         print(data)
         # Add companies scraping logic here
     case "4":
+        print("Starting Google Profile scrapper...")
+        keyword = input("Enter the job title/keyword: ")
+        country = input("Enter the country: ")
+        max_page = int(input("Enter the number of pages to scrape: "))
+        print('Scrapper is Working...')
+        scraper = GoogleLinkedinProfileScraper(keyword, country , max_pages=max_page)
+        profile_links = scraper.start()
+        print(len(profile_links))
+    case "5":
         print("Exiting...")
         exit()
     case _:
