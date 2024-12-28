@@ -31,3 +31,19 @@ Command:
 ```
 pip install -r requirements.txt
 ```
+
+6.create a file config.py in the same directory as main.py and add the following code:
+```config.py
+LI_AT=""
+```
+7.Save the cookies.json file in the same directory as main.py
+
+description: install browser extension called "EditThisCookie" and export cookies to json file
+from your linkedin account 
+
+
+## Caution 
+1. Don't use this script for mass spamming or sending unsolicited messages to users.
+2. Respect LinkedIn's terms of service and community guidelines.
+3. Use this script responsibly and ethically.
+4. Mass Spamming May Lead To Temporary or Permanent Account Suspension.
